@@ -1,9 +1,0 @@
-Performance of /home/transposenet/out/run_03_08_24_05_23_office_skip_1_checkpoint-100.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
-Median pose error: 0.16945286095142365[m], 6.778388738632202[deg]
-Mean inference time: 11.074724435806274
-Performance of /home/transposenet/out/run_03_08_24_05_23_office_skip_1_checkpoint-200.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
-Median pose error: 0.17907581478357315[m], 6.648092746734619[deg]
-Mean inference time: 10.78604394197464
-Performance of /home/transposenet/out/run_03_08_24_05_23_office_skip_1_checkpoint-200.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
-Median pose error: 0.17907581478357315[m], 6.648092746734619[deg]
-Mean inference time: 11.560868680477142

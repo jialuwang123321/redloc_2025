@@ -1,6 +1,0 @@
-Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test.csv
-Median pose error: 0.5173004865646362[m], 10.553706645965576[deg]
-Mean inference time: 11.331697702407837
-Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test.csv
-Median pose error: 0.5173004865646362[m], 10.553706645965576[deg]
-Mean inference time: 11.409783601760864

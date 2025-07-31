@@ -1,1 +1,0 @@
-tar -czvf REDLoc_fifth_1014_没有分开版本_all_backup.tar.gz home/

@@ -1,6 +1,0 @@
-Performance of /home/transposenet/out/run_08_08_24_18_51_heads_mamba_skip_100_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv
-Median pose error: 0.8588922023773193[m], 96.68685531616211[deg]
-Mean inference time: 6.176618814468384
-Performance of /home/transposenet/out/run_08_08_24_18_51_heads_mamba_skip_100_checkpoint-2.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv
-Median pose error: 0.862123429775238[m], 78.84675216674805[deg]
-Mean inference time: 6.17906641960144

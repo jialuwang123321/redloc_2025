@@ -1,9 +1,0 @@
-Performance of /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
-Median pose error: 1.195317029953003[m], 5.174028396606445[deg]
-Mean inference time: 12.044439675672999
-Performance of /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
-Median pose error: 1.195317029953003[m], 5.174028396606445[deg]
-Mean inference time: 12.04888235847905
-Performance of /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
-Median pose error: 3.500678777694702[m], 19.527710914611816[deg]
-Mean inference time: 11.672531433825222
