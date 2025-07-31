@@ -1,0 +1,6 @@
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18724672496318817[m], 4.624050855636597[deg]
+Mean inference time: 11.263150930404663
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.4684437960386276[m], 30.20686149597168[deg]
+Mean inference time: 11.03642189502716

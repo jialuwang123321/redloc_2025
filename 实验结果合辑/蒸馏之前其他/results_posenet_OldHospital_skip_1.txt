@@ -1,0 +1,3 @@
+Performance of /home/transposenet/out/run_31_07_24_16_28_OldHospital_skip_1_posenet_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv
+Median pose error: 3.2265156507492065[m], 4.745319843292236[deg]
+Mean inference time: 3.5917221844851315

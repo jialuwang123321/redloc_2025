@@ -1,0 +1,357 @@
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-5.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 2.447715997695923[m], 5.886085033416748[deg]
+Mean inference time: 13.680957149138603
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-10.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.7867189645767212[m], 6.898244380950928[deg]
+Mean inference time: 13.088021264479389
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-15.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 2.5829546451568604[m], 5.319684028625488[deg]
+Mean inference time: 12.928560245836442
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-20.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.8166046142578125[m], 4.23366117477417[deg]
+Mean inference time: 13.287697172025897
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-25.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.8161382675170898[m], 4.926937103271484[deg]
+Mean inference time: 12.986136594944723
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-30.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.5271737575531006[m], 4.488393783569336[deg]
+Mean inference time: 12.556376332096734
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-35.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.2178771495819092[m], 4.179131031036377[deg]
+Mean inference time: 12.445744550610423
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-40.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.8814551830291748[m], 3.9909424781799316[deg]
+Mean inference time: 13.05029691134528
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-45.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.7421391010284424[m], 4.134307384490967[deg]
+Mean inference time: 12.470389941690962
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-50.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.676161766052246[m], 4.320784091949463[deg]
+Mean inference time: 13.443387979668708
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-55.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1463196277618408[m], 3.8954501152038574[deg]
+Mean inference time: 13.725451755801721
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-60.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.7761181592941284[m], 4.304810523986816[deg]
+Mean inference time: 13.100242475726514
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-65.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0215226411819458[m], 3.713345527648926[deg]
+Mean inference time: 12.570116332251546
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-70.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.8661794662475586[m], 3.4139416217803955[deg]
+Mean inference time: 12.71972711857832
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-75.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.6819944381713867[m], 4.103135585784912[deg]
+Mean inference time: 13.054946421186708
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-80.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0872652530670166[m], 3.475299596786499[deg]
+Mean inference time: 12.928677717381246
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-85.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.3125836849212646[m], 4.5089287757873535[deg]
+Mean inference time: 13.053066876469826
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-90.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.366711139678955[m], 3.9288675785064697[deg]
+Mean inference time: 12.791410479531692
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-95.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9072642922401428[m], 3.156111478805542[deg]
+Mean inference time: 12.948674293718254
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-100.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.671539068222046[m], 3.697288751602173[deg]
+Mean inference time: 12.351446874635213
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-105.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.2787686586380005[m], 3.2357146739959717[deg]
+Mean inference time: 12.442433799321034
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-110.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9018130898475647[m], 3.8678205013275146[deg]
+Mean inference time: 12.301717485700335
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-115.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.4505083560943604[m], 3.8908255100250244[deg]
+Mean inference time: 12.58948106459904
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-120.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 2.023799180984497[m], 2.8923604488372803[deg]
+Mean inference time: 12.362496150825878
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-125.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.3037718534469604[m], 3.0132431983947754[deg]
+Mean inference time: 12.585637173221688
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-130.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.32951021194458[m], 3.4033777713775635[deg]
+Mean inference time: 12.262905304355455
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-135.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9752784967422485[m], 2.959245204925537[deg]
+Mean inference time: 12.766772734528033
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-140.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.010816216468811[m], 3.295639991760254[deg]
+Mean inference time: 12.456719451325975
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-145.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7733566164970398[m], 3.078265428543091[deg]
+Mean inference time: 12.673999408243697
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-150.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.8305513858795166[m], 3.24851131439209[deg]
+Mean inference time: 13.042593141338916
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-155.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.344387412071228[m], 3.4506607055664062[deg]
+Mean inference time: 12.280890267374911
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-160.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8515838980674744[m], 3.0838546752929688[deg]
+Mean inference time: 12.705574230271942
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-165.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.280992865562439[m], 3.232084035873413[deg]
+Mean inference time: 12.210233566017262
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-170.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9949585199356079[m], 2.765352249145508[deg]
+Mean inference time: 12.346540178571429
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-175.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.217297077178955[m], 2.7463221549987793[deg]
+Mean inference time: 12.39877052974423
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-180.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.5696604251861572[m], 3.0698623657226562[deg]
+Mean inference time: 12.393203490677102
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-185.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8476738929748535[m], 3.1506505012512207[deg]
+Mean inference time: 12.444188226416228
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-190.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8499936461448669[m], 3.006481170654297[deg]
+Mean inference time: 12.759930190817608
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-195.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8539659380912781[m], 3.638812780380249[deg]
+Mean inference time: 12.685075098154496
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-200.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9436687231063843[m], 3.517613649368286[deg]
+Mean inference time: 12.433473292314623
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-205.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9508517384529114[m], 3.2306301593780518[deg]
+Mean inference time: 12.73207344744713
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-210.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9320064187049866[m], 3.3680028915405273[deg]
+Mean inference time: 12.586423328944615
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-215.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8576956391334534[m], 3.128960609436035[deg]
+Mean inference time: 12.549693660902907
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-220.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1259355545043945[m], 3.8123719692230225[deg]
+Mean inference time: 12.484268266327527
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-225.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9547262787818909[m], 3.1139140129089355[deg]
+Mean inference time: 12.79647843830787
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-230.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7927144169807434[m], 2.945458173751831[deg]
+Mean inference time: 12.401299295898081
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-235.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8982407450675964[m], 3.082839250564575[deg]
+Mean inference time: 12.20559309244851
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-240.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.2792935371398926[m], 3.1392009258270264[deg]
+Mean inference time: 12.227331584118545
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-245.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7921931147575378[m], 3.057342529296875[deg]
+Mean inference time: 12.533479112230307
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-250.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9692268967628479[m], 2.914736270904541[deg]
+Mean inference time: 12.64226123820936
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-255.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7614749670028687[m], 2.9385406970977783[deg]
+Mean inference time: 12.489530852515218
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-260.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8901897072792053[m], 3.3712551593780518[deg]
+Mean inference time: 12.673778367112051
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-265.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1525710821151733[m], 2.8200085163116455[deg]
+Mean inference time: 12.414604164768585
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-270.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.900320291519165[m], 3.208505153656006[deg]
+Mean inference time: 12.619431442839064
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-275.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1235631704330444[m], 2.9235849380493164[deg]
+Mean inference time: 12.593922045070993
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-280.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9881877303123474[m], 3.6860499382019043[deg]
+Mean inference time: 13.00322905226282
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-285.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7421634197235107[m], 3.035501718521118[deg]
+Mean inference time: 12.914782710395123
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-290.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1545686721801758[m], 2.643500566482544[deg]
+Mean inference time: 12.391000030339633
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-295.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.06996488571167[m], 2.604422092437744[deg]
+Mean inference time: 12.842644755416291
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-300.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1435520648956299[m], 2.877981185913086[deg]
+Mean inference time: 12.929691170116902
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-305.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9170529842376709[m], 2.5993075370788574[deg]
+Mean inference time: 12.343138369457368
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-310.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9016168117523193[m], 2.993696451187134[deg]
+Mean inference time: 12.69414543062883
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-315.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9741198420524597[m], 2.452418804168701[deg]
+Mean inference time: 12.350983939434975
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-320.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9845914244651794[m], 3.0298233032226562[deg]
+Mean inference time: 12.676402361677965
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-325.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8037344217300415[m], 2.798274278640747[deg]
+Mean inference time: 12.792600487133504
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-330.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7492495775222778[m], 2.890465259552002[deg]
+Mean inference time: 12.563006870948191
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-335.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1426541805267334[m], 3.132960557937622[deg]
+Mean inference time: 12.616012256277546
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-340.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8162751197814941[m], 2.766484260559082[deg]
+Mean inference time: 12.970645643184206
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-345.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7220172882080078[m], 3.2126500606536865[deg]
+Mean inference time: 12.837878469127956
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-350.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0769983530044556[m], 2.9171524047851562[deg]
+Mean inference time: 13.054156094876392
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-355.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0977774858474731[m], 2.5981028079986572[deg]
+Mean inference time: 12.930010220052202
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-360.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.183959722518921[m], 3.1314613819122314[deg]
+Mean inference time: 12.58105856336588
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-365.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8125095367431641[m], 3.3990049362182617[deg]
+Mean inference time: 12.581563899537912
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-370.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.3847159147262573[m], 3.314587354660034[deg]
+Mean inference time: 12.696158434142177
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-375.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8113147616386414[m], 2.9761264324188232[deg]
+Mean inference time: 12.816269265666994
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-380.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1227996349334717[m], 2.409595251083374[deg]
+Mean inference time: 12.617554678513775
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-385.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8922538757324219[m], 3.1904003620147705[deg]
+Mean inference time: 12.438689306943132
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-390.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8792818188667297[m], 2.560472011566162[deg]
+Mean inference time: 12.40133613608669
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-395.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7602430582046509[m], 2.7993929386138916[deg]
+Mean inference time: 12.633143639077945
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-400.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7682241797447205[m], 2.7121927738189697[deg]
+Mean inference time: 12.313623817599549
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-405.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1744670867919922[m], 3.412795066833496[deg]
+Mean inference time: 12.087445217388364
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-410.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7780457139015198[m], 2.280418872833252[deg]
+Mean inference time: 12.585658721256534
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-415.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8289462924003601[m], 2.547600269317627[deg]
+Mean inference time: 12.457500046265716
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-420.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0209450721740723[m], 2.5607776641845703[deg]
+Mean inference time: 12.878575755972903
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-425.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8239496946334839[m], 2.8621628284454346[deg]
+Mean inference time: 12.989822699099172
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-430.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1641895771026611[m], 2.3808376789093018[deg]
+Mean inference time: 12.35991386213386
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-435.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7789194583892822[m], 2.9655869007110596[deg]
+Mean inference time: 12.269521941248946
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-440.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8976222276687622[m], 2.3413875102996826[deg]
+Mean inference time: 12.098847603311343
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-445.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7884605526924133[m], 2.5823891162872314[deg]
+Mean inference time: 12.62221391972578
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-450.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9893804788589478[m], 3.4242444038391113[deg]
+Mean inference time: 12.31604623377497
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-455.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.31277334690094[m], 2.7116150856018066[deg]
+Mean inference time: 12.782069753974937
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-460.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8214018940925598[m], 2.42997407913208[deg]
+Mean inference time: 12.665199468851785
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-465.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7586800456047058[m], 3.309387683868408[deg]
+Mean inference time: 12.427696333682224
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-470.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.6769542694091797[m], 2.984006404876709[deg]
+Mean inference time: 12.372871182055237
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-475.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9924001097679138[m], 2.789308547973633[deg]
+Mean inference time: 12.64308631941459
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-480.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.6948994994163513[m], 2.595691442489624[deg]
+Mean inference time: 12.48111947284843
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-485.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.890651285648346[m], 2.786220073699951[deg]
+Mean inference time: 12.850809375329199
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-490.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.6483162641525269[m], 2.835510492324829[deg]
+Mean inference time: 12.699605424619625
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-495.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.756199836730957[m], 2.6787972450256348[deg]
+Mean inference time: 12.63560011505038
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.3190115690231323[m], 2.9318735599517822[deg]
+Mean inference time: 12.320253661353108
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-505.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8501062393188477[m], 2.931072235107422[deg]
+Mean inference time: 12.862167274986689
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-510.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7623637318611145[m], 2.793794870376587[deg]
+Mean inference time: 12.828724029807933
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-515.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8762408494949341[m], 2.5902578830718994[deg]
+Mean inference time: 12.674736212015848
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-520.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9179080128669739[m], 2.58450984954834[deg]
+Mean inference time: 12.580184825307773
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-525.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1742700338363647[m], 2.977177858352661[deg]
+Mean inference time: 12.659024219123685
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-530.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7603721618652344[m], 2.5926740169525146[deg]
+Mean inference time: 12.48378864877773
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-535.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8389595746994019[m], 2.560472011566162[deg]
+Mean inference time: 12.532679054549414
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-540.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.1947026252746582[m], 2.463564395904541[deg]
+Mean inference time: 12.62057626907749
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-545.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 1.0426132678985596[m], 2.6793816089630127[deg]
+Mean inference time: 12.504893906262456
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-550.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8491763472557068[m], 2.8700826168060303[deg]
+Mean inference time: 12.390676114719046
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-555.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.877370297908783[m], 2.498270034790039[deg]
+Mean inference time: 12.758542080314792
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-560.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9670283198356628[m], 2.6074259281158447[deg]
+Mean inference time: 12.958956876927145
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-565.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9460026025772095[m], 2.8495545387268066[deg]
+Mean inference time: 12.661371564726092
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-570.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.9852415919303894[m], 2.707859992980957[deg]
+Mean inference time: 12.503213854642373
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-575.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8299463391304016[m], 2.3851075172424316[deg]
+Mean inference time: 12.479698692744396
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-580.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.8717623353004456[m], 2.4632465839385986[deg]
+Mean inference time: 12.798318362444553
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-585.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.6568445563316345[m], 2.407320022583008[deg]
+Mean inference time: 12.646666768688503
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-590.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7393393516540527[m], 2.689295768737793[deg]
+Mean inference time: 12.329515145749461
+Performance of /home/transposenet/out/run_17_07_24_20_41_KingsCollege_checkpoint-595.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 0.7759638428688049[m], 2.360365867614746[deg]
+Mean inference time: 12.28712182003277

@@ -1,0 +1,1198 @@
+
+skip=2
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.36594952642917633[m], 11.28743600845337[deg]
+Mean inference time: 10.676682472229004
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-2.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.36660656332969666[m], 9.7753586769104[deg]
+Mean inference time: 10.453010201454163
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-3.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.3237457126379013[m], 7.658187627792358[deg]
+Mean inference time: 10.74186360836029
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-4.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.22921519726514816[m], 7.6576244831085205[deg]
+Mean inference time: 10.548410415649414
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-5.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.25625690817832947[m], 9.719606399536133[deg]
+Mean inference time: 10.477778673171997
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-6.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.27665047347545624[m], 6.355411052703857[deg]
+Mean inference time: 10.518752098083496
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-7.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.25954870879650116[m], 6.682635545730591[deg]
+Mean inference time: 10.524979591369629
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-8.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2462967485189438[m], 6.709125995635986[deg]
+Mean inference time: 10.527486801147461
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-9.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.29909029603004456[m], 6.592139005661011[deg]
+Mean inference time: 10.523550510406494
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-10.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.23124507814645767[m], 5.810638666152954[deg]
+Mean inference time: 10.581222891807556
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-11.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2504805773496628[m], 5.3344480991363525[deg]
+Mean inference time: 10.593464612960815
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-12.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.23793552070856094[m], 6.768337249755859[deg]
+Mean inference time: 10.593359231948853
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-13.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.23207629472017288[m], 5.851591110229492[deg]
+Mean inference time: 10.583477854728699
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-14.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18784157931804657[m], 6.028759717941284[deg]
+Mean inference time: 10.71657681465149
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-15.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1846570149064064[m], 5.583234548568726[deg]
+Mean inference time: 10.559375047683716
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-16.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20468223839998245[m], 5.793566942214966[deg]
+Mean inference time: 10.551121830940247
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-17.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18930775672197342[m], 5.293706893920898[deg]
+Mean inference time: 10.456379771232605
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-18.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1963833048939705[m], 5.568282604217529[deg]
+Mean inference time: 10.56946325302124
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-19.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18310771137475967[m], 6.178098917007446[deg]
+Mean inference time: 10.413817048072815
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-20.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.22698237001895905[m], 5.909315824508667[deg]
+Mean inference time: 10.52990210056305
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-21.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19357392191886902[m], 5.9837164878845215[deg]
+Mean inference time: 10.631979703903198
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-22.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18936381489038467[m], 5.751651048660278[deg]
+Mean inference time: 10.517259359359741
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-23.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1881435066461563[m], 5.226958274841309[deg]
+Mean inference time: 10.339075446128845
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-24.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2172742486000061[m], 6.180506467819214[deg]
+Mean inference time: 10.511602759361267
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-25.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20114511996507645[m], 5.251468658447266[deg]
+Mean inference time: 10.698623299598694
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-26.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1990772858262062[m], 5.982604503631592[deg]
+Mean inference time: 10.51570737361908
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-27.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18051183223724365[m], 5.677663803100586[deg]
+Mean inference time: 11.82323670387268
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-28.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1842094585299492[m], 5.842484712600708[deg]
+Mean inference time: 10.62013304233551
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-29.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.192499577999115[m], 5.666206121444702[deg]
+Mean inference time: 10.638784170150757
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-30.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19870323687791824[m], 5.821946144104004[deg]
+Mean inference time: 10.454960584640503
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-31.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19798298180103302[m], 6.060753345489502[deg]
+Mean inference time: 10.476362824440002
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-32.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20379815995693207[m], 7.384940147399902[deg]
+Mean inference time: 10.561154127120972
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-33.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19986188411712646[m], 5.651746988296509[deg]
+Mean inference time: 10.5647873878479
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-34.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20419064909219742[m], 5.416459083557129[deg]
+Mean inference time: 10.580912947654724
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-35.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20067236572504044[m], 5.689855098724365[deg]
+Mean inference time: 10.42903995513916
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-36.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2131524309515953[m], 5.9640562534332275[deg]
+Mean inference time: 10.525616765022278
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-37.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20164023339748383[m], 5.683175802230835[deg]
+Mean inference time: 10.401162981987
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-38.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.205598346889019[m], 5.5687055587768555[deg]
+Mean inference time: 10.501648426055908
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-39.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18102022260427475[m], 5.842287063598633[deg]
+Mean inference time: 10.480803966522217
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-40.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2236245647072792[m], 5.526150465011597[deg]
+Mean inference time: 10.601025104522705
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-41.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19960908591747284[m], 5.3059775829315186[deg]
+Mean inference time: 10.626576662063599
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-42.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19754168391227722[m], 5.62021017074585[deg]
+Mean inference time: 10.502435326576233
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-43.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18388518691062927[m], 5.381072521209717[deg]
+Mean inference time: 10.793341755867004
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-44.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19668329507112503[m], 5.204067230224609[deg]
+Mean inference time: 10.537195324897766
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-45.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1815691813826561[m], 6.1333842277526855[deg]
+Mean inference time: 10.525240421295166
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-46.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20664379745721817[m], 5.442560195922852[deg]
+Mean inference time: 10.678175806999207
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-47.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16945043951272964[m], 5.862356185913086[deg]
+Mean inference time: 10.472258806228638
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-48.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18544352054595947[m], 5.343400001525879[deg]
+Mean inference time: 10.45222270488739
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-49.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18724428862333298[m], 5.814949035644531[deg]
+Mean inference time: 10.380880117416382
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-50.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18861984461545944[m], 5.442770957946777[deg]
+Mean inference time: 10.539256930351257
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-51.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17825350910425186[m], 6.250929117202759[deg]
+Mean inference time: 10.356518864631653
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-52.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18104715645313263[m], 5.947556018829346[deg]
+Mean inference time: 10.514701128005981
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-53.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17407497763633728[m], 5.773869037628174[deg]
+Mean inference time: 10.670626759529114
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-54.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1861080750823021[m], 5.91845440864563[deg]
+Mean inference time: 10.585626244544983
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-55.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1769101470708847[m], 5.764707565307617[deg]
+Mean inference time: 10.594931960105896
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-56.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1983143910765648[m], 5.584289312362671[deg]
+Mean inference time: 10.58821415901184
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-57.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18651983886957169[m], 5.077274560928345[deg]
+Mean inference time: 10.434107780456543
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-58.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17212696373462677[m], 6.050735950469971[deg]
+Mean inference time: 10.545859336853027
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-59.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20098994672298431[m], 5.849855422973633[deg]
+Mean inference time: 10.436152338981628
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-60.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1884656548500061[m], 5.482764482498169[deg]
+Mean inference time: 10.4869464635849
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-61.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19003912061452866[m], 5.382744312286377[deg]
+Mean inference time: 10.573635339736938
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-62.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1895478516817093[m], 6.378521919250488[deg]
+Mean inference time: 10.42724347114563
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-63.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18990663439035416[m], 5.931538105010986[deg]
+Mean inference time: 10.47913670539856
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-64.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.15927055478096008[m], 6.160581588745117[deg]
+Mean inference time: 10.508526086807251
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-65.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18966414034366608[m], 6.178921222686768[deg]
+Mean inference time: 10.409815192222595
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-66.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17882392555475235[m], 5.701128959655762[deg]
+Mean inference time: 10.541386842727661
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-67.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20772375166416168[m], 5.571797847747803[deg]
+Mean inference time: 10.481788158416748
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-68.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19345606863498688[m], 5.785520076751709[deg]
+Mean inference time: 10.464485764503479
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-69.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17987755686044693[m], 5.408286094665527[deg]
+Mean inference time: 10.414288878440857
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-70.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1774386242032051[m], 6.341843128204346[deg]
+Mean inference time: 10.492455244064331
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-71.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18323257565498352[m], 5.996855020523071[deg]
+Mean inference time: 10.518662571907043
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-72.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16204702109098434[m], 5.955054998397827[deg]
+Mean inference time: 10.515821814537048
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-73.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2108662724494934[m], 5.94228720664978[deg]
+Mean inference time: 10.564002633094788
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-74.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2020598128437996[m], 6.860506057739258[deg]
+Mean inference time: 10.421023845672607
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-75.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18180041760206223[m], 6.335790395736694[deg]
+Mean inference time: 10.500978946685791
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-76.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1699981912970543[m], 5.803257942199707[deg]
+Mean inference time: 10.431326270103455
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-77.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19663803279399872[m], 6.115803003311157[deg]
+Mean inference time: 10.460995316505432
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-78.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1793215498328209[m], 5.855339288711548[deg]
+Mean inference time: 10.550838232040405
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-79.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19025974720716476[m], 5.674905061721802[deg]
+Mean inference time: 10.6049644947052
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-80.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18585453182458878[m], 6.116509199142456[deg]
+Mean inference time: 10.390779972076416
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-81.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1622244119644165[m], 5.8870155811309814[deg]
+Mean inference time: 10.448323726654053
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-82.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17508580535650253[m], 6.1614086627960205[deg]
+Mean inference time: 10.546711087226868
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-83.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16563381254673004[m], 5.8215415477752686[deg]
+Mean inference time: 10.454922914505005
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-84.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19365337491035461[m], 5.898974418640137[deg]
+Mean inference time: 10.632872223854065
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-85.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17773087322711945[m], 5.787273645401001[deg]
+Mean inference time: 10.653199553489685
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-86.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1619892120361328[m], 5.532522916793823[deg]
+Mean inference time: 10.448496103286743
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-87.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.195675291121006[m], 5.459510087966919[deg]
+Mean inference time: 10.459743618965149
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-88.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18430716544389725[m], 6.274686574935913[deg]
+Mean inference time: 10.415303945541382
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-89.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17375349253416061[m], 5.731947660446167[deg]
+Mean inference time: 10.522236585617065
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-90.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17067968100309372[m], 5.968715190887451[deg]
+Mean inference time: 10.679388523101807
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-91.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17597796767950058[m], 6.464386463165283[deg]
+Mean inference time: 10.404966235160828
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-92.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17820577323436737[m], 5.541714429855347[deg]
+Mean inference time: 10.636838436126709
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-93.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17817971110343933[m], 5.839002847671509[deg]
+Mean inference time: 10.528123259544373
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-94.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1750195175409317[m], 6.478043794631958[deg]
+Mean inference time: 10.502343535423279
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-95.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18447120487689972[m], 6.365999698638916[deg]
+Mean inference time: 10.560062646865845
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-96.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1848754808306694[m], 6.151356935501099[deg]
+Mean inference time: 10.498274445533752
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-97.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17513562738895416[m], 5.9784135818481445[deg]
+Mean inference time: 10.699349522590637
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-98.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18285582214593887[m], 5.718750476837158[deg]
+Mean inference time: 10.431506156921387
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-99.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18398316949605942[m], 5.584571599960327[deg]
+Mean inference time: 10.47041630744934
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-100.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17101141810417175[m], 5.276383399963379[deg]
+Mean inference time: 10.491123080253601
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-101.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16143416613340378[m], 5.476192951202393[deg]
+Mean inference time: 10.524494171142578
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-102.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17449042946100235[m], 5.888542890548706[deg]
+Mean inference time: 10.5859454870224
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-103.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17526742070913315[m], 5.576081991195679[deg]
+Mean inference time: 10.395164370536804
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-104.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1658383309841156[m], 6.0115814208984375[deg]
+Mean inference time: 10.757593512535095
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-105.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1785278543829918[m], 5.6746296882629395[deg]
+Mean inference time: 10.515354752540588
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-106.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16233962029218674[m], 5.501085519790649[deg]
+Mean inference time: 10.534716486930847
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-107.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18121986091136932[m], 5.697557210922241[deg]
+Mean inference time: 10.543525218963623
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-108.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17502417415380478[m], 5.784301996231079[deg]
+Mean inference time: 10.410933256149292
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-109.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17449796944856644[m], 6.339312314987183[deg]
+Mean inference time: 10.51043713092804
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-110.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17532984167337418[m], 5.837055444717407[deg]
+Mean inference time: 10.420696139335632
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-111.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1568325012922287[m], 5.772783517837524[deg]
+Mean inference time: 10.462642073631287
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-112.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18836627155542374[m], 6.072761297225952[deg]
+Mean inference time: 10.478166103363037
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-113.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1714300885796547[m], 5.776445150375366[deg]
+Mean inference time: 10.405553460121155
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-114.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18902776390314102[m], 6.185316324234009[deg]
+Mean inference time: 10.6723872423172
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-115.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17888423055410385[m], 6.431655645370483[deg]
+Mean inference time: 10.413530588150024
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-116.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1870848685503006[m], 6.141104698181152[deg]
+Mean inference time: 10.544553518295288
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-117.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.187662273645401[m], 5.869559049606323[deg]
+Mean inference time: 10.492962837219238
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-118.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18257641047239304[m], 6.065407037734985[deg]
+Mean inference time: 10.516287088394165
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-119.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18049033731222153[m], 5.570180892944336[deg]
+Mean inference time: 10.568496823310852
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-120.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17548184841871262[m], 6.002336502075195[deg]
+Mean inference time: 10.54894769191742
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-121.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18634888529777527[m], 6.3828911781311035[deg]
+Mean inference time: 10.52649700641632
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-122.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17335349321365356[m], 5.869898796081543[deg]
+Mean inference time: 10.348008513450623
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-123.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.178187295794487[m], 6.138232231140137[deg]
+Mean inference time: 10.677440285682678
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-124.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1623159423470497[m], 5.88515305519104[deg]
+Mean inference time: 10.714635372161865
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-125.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16993190348148346[m], 5.643079996109009[deg]
+Mean inference time: 10.62227976322174
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-126.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1839430183172226[m], 5.9694366455078125[deg]
+Mean inference time: 10.549453139305115
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-127.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18403694778680801[m], 6.179176092147827[deg]
+Mean inference time: 10.400171995162964
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-128.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17068200558423996[m], 5.836319923400879[deg]
+Mean inference time: 10.58425760269165
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-129.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17696819454431534[m], 6.201629161834717[deg]
+Mean inference time: 10.466045498847961
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-130.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18843583762645721[m], 6.377490758895874[deg]
+Mean inference time: 10.443123817443848
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-131.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18823403120040894[m], 6.269130706787109[deg]
+Mean inference time: 10.601247310638428
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-132.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18330208957195282[m], 6.30854058265686[deg]
+Mean inference time: 10.395408868789673
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-133.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18047704547643661[m], 5.9643847942352295[deg]
+Mean inference time: 10.512337684631348
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-134.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17740536481142044[m], 5.94748854637146[deg]
+Mean inference time: 10.512258410453796
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-135.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18186356127262115[m], 5.960641384124756[deg]
+Mean inference time: 10.417715191841125
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-136.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1845513954758644[m], 5.775631427764893[deg]
+Mean inference time: 10.435415387153625
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-137.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19495538622140884[m], 5.696732759475708[deg]
+Mean inference time: 10.425826787948608
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-138.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2044861614704132[m], 6.1551783084869385[deg]
+Mean inference time: 10.464202523231506
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-139.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18565861135721207[m], 6.322922945022583[deg]
+Mean inference time: 10.460234880447388
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-140.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19587527215480804[m], 5.953938245773315[deg]
+Mean inference time: 10.617269158363342
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-141.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17165254056453705[m], 6.105166673660278[deg]
+Mean inference time: 10.452670574188232
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-142.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17920918762683868[m], 5.984044551849365[deg]
+Mean inference time: 10.647649765014648
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-143.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19474094361066818[m], 5.777868032455444[deg]
+Mean inference time: 10.587252020835876
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-144.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19311315566301346[m], 6.671372890472412[deg]
+Mean inference time: 10.530208945274353
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-145.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1922297105193138[m], 6.193414926528931[deg]
+Mean inference time: 10.422873497009277
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-146.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17953798174858093[m], 6.166807651519775[deg]
+Mean inference time: 10.618146538734436
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-147.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17776968330144882[m], 6.27817964553833[deg]
+Mean inference time: 10.577367186546326
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-148.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18453995883464813[m], 5.7811198234558105[deg]
+Mean inference time: 10.50961983203888
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-149.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19203602522611618[m], 5.72271990776062[deg]
+Mean inference time: 10.459933876991272
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-150.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18454350531101227[m], 6.206927061080933[deg]
+Mean inference time: 10.57432496547699
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-151.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1875307932496071[m], 6.165283441543579[deg]
+Mean inference time: 10.527708411216736
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-152.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.171544648706913[m], 5.858548641204834[deg]
+Mean inference time: 10.481455564498901
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-153.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18245669454336166[m], 6.031357765197754[deg]
+Mean inference time: 10.552213788032532
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-154.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19787027686834335[m], 6.052999496459961[deg]
+Mean inference time: 10.572847962379456
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-155.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17868733406066895[m], 6.36618447303772[deg]
+Mean inference time: 10.617160439491272
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-156.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19795052707195282[m], 5.9991395473480225[deg]
+Mean inference time: 10.573400378227234
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-157.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1871437281370163[m], 6.28976845741272[deg]
+Mean inference time: 10.42098355293274
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-158.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17055575549602509[m], 6.170289516448975[deg]
+Mean inference time: 10.43570327758789
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-159.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17722439765930176[m], 6.546304225921631[deg]
+Mean inference time: 10.4769926071167
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-160.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1783117949962616[m], 6.154160261154175[deg]
+Mean inference time: 10.462097764015198
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-161.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18781329691410065[m], 6.109269142150879[deg]
+Mean inference time: 10.61455750465393
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-162.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18938928842544556[m], 6.3577516078948975[deg]
+Mean inference time: 10.505768775939941
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-163.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17604005336761475[m], 6.230100154876709[deg]
+Mean inference time: 10.50184452533722
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-164.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19755226373672485[m], 6.186711311340332[deg]
+Mean inference time: 10.4312082529068
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-165.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17606088519096375[m], 6.807907819747925[deg]
+Mean inference time: 10.747756838798523
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-166.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1919587403535843[m], 6.381724119186401[deg]
+Mean inference time: 10.556450009346008
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-167.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1921643242239952[m], 6.4147093296051025[deg]
+Mean inference time: 10.567306399345398
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-168.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20200121402740479[m], 6.227522850036621[deg]
+Mean inference time: 10.4233717918396
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-169.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18588552623987198[m], 5.947224855422974[deg]
+Mean inference time: 10.430384635925293
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-170.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17675187438726425[m], 6.334306716918945[deg]
+Mean inference time: 10.51958966255188
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-171.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17995264381170273[m], 6.432995557785034[deg]
+Mean inference time: 10.555627822875977
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-172.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18359991163015366[m], 6.627860069274902[deg]
+Mean inference time: 10.55660593509674
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-173.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17608318477869034[m], 6.395512580871582[deg]
+Mean inference time: 10.530129194259644
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-174.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18766948580741882[m], 6.0736613273620605[deg]
+Mean inference time: 10.561204195022583
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-175.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18226779252290726[m], 6.5056843757629395[deg]
+Mean inference time: 10.470584869384766
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-176.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1804870441555977[m], 6.7534520626068115[deg]
+Mean inference time: 10.533124923706055
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-177.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16530627757310867[m], 6.337582588195801[deg]
+Mean inference time: 10.587649583816528
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-178.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18321363627910614[m], 6.073728084564209[deg]
+Mean inference time: 10.563966393470764
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-179.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16743285953998566[m], 6.145435810089111[deg]
+Mean inference time: 10.505594968795776
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-180.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.172768272459507[m], 6.56744384765625[deg]
+Mean inference time: 10.470568180084229
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-181.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16624730080366135[m], 6.470985412597656[deg]
+Mean inference time: 10.428768515586853
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-182.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18409569561481476[m], 6.194363832473755[deg]
+Mean inference time: 10.3565092086792
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-183.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18368493020534515[m], 6.107092618942261[deg]
+Mean inference time: 10.539628624916077
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-184.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19850707799196243[m], 6.382643699645996[deg]
+Mean inference time: 10.573139548301697
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-185.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18329789489507675[m], 6.235376596450806[deg]
+Mean inference time: 10.577861905097961
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-186.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18146812170743942[m], 6.060626983642578[deg]
+Mean inference time: 10.508942723274231
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-187.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1755247265100479[m], 5.982736349105835[deg]
+Mean inference time: 10.713102102279663
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-188.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1898607611656189[m], 5.9109718799591064[deg]
+Mean inference time: 10.40821635723114
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-189.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17496008425951004[m], 6.436099052429199[deg]
+Mean inference time: 10.481582403182983
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-190.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1910521611571312[m], 6.511640548706055[deg]
+Mean inference time: 10.44198489189148
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-191.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17255529761314392[m], 6.3157958984375[deg]
+Mean inference time: 10.637593865394592
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-192.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18962667882442474[m], 6.268755912780762[deg]
+Mean inference time: 10.593818187713623
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-193.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1842886358499527[m], 6.431285619735718[deg]
+Mean inference time: 10.494660258293152
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-194.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17812786251306534[m], 6.445398807525635[deg]
+Mean inference time: 10.557500004768372
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-195.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18275856971740723[m], 6.934704780578613[deg]
+Mean inference time: 10.40251886844635
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-196.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17395766824483871[m], 6.565654277801514[deg]
+Mean inference time: 10.50048828125
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-197.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1821814849972725[m], 6.2655699253082275[deg]
+Mean inference time: 10.498090386390686
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-198.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1916803941130638[m], 6.36870551109314[deg]
+Mean inference time: 10.571661353111267
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-199.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19393619894981384[m], 6.268193960189819[deg]
+Mean inference time: 10.617637753486633
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-200.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1785505712032318[m], 6.755016803741455[deg]
+Mean inference time: 10.490633368492126
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-201.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19928409159183502[m], 6.481505393981934[deg]
+Mean inference time: 10.481106996536255
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-202.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1921227052807808[m], 6.261881351470947[deg]
+Mean inference time: 10.605603218078613
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-203.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1883544996380806[m], 6.5623743534088135[deg]
+Mean inference time: 10.544708967208862
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-204.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20513195544481277[m], 6.119964599609375[deg]
+Mean inference time: 10.442286968231201
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-205.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2035015970468521[m], 6.117084741592407[deg]
+Mean inference time: 10.359651446342468
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-206.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17681493610143661[m], 6.75716233253479[deg]
+Mean inference time: 10.41020655632019
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-207.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.188451886177063[m], 6.285908937454224[deg]
+Mean inference time: 10.37804639339447
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-208.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16513877362012863[m], 6.349063396453857[deg]
+Mean inference time: 10.47813618183136
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-209.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18599488586187363[m], 6.304691791534424[deg]
+Mean inference time: 10.484118700027466
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-210.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1833161637187004[m], 6.193666458129883[deg]
+Mean inference time: 10.470040321350098
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-211.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20211397856473923[m], 6.483073472976685[deg]
+Mean inference time: 10.581321597099304
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-212.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18709426373243332[m], 6.480357646942139[deg]
+Mean inference time: 10.49340546131134
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-213.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17917387187480927[m], 6.45681095123291[deg]
+Mean inference time: 10.498722910881042
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-214.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17761124670505524[m], 6.305932998657227[deg]
+Mean inference time: 10.477975845336914
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-215.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18110430985689163[m], 6.326822280883789[deg]
+Mean inference time: 10.478652954101562
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-216.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1962108016014099[m], 6.226516962051392[deg]
+Mean inference time: 10.44768750667572
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-217.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18258357793092728[m], 6.541876554489136[deg]
+Mean inference time: 10.487303256988525
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-218.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18880542367696762[m], 6.515788793563843[deg]
+Mean inference time: 10.549121499061584
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-219.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19140049070119858[m], 6.2569403648376465[deg]
+Mean inference time: 10.470541000366211
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-220.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1860789880156517[m], 6.19430136680603[deg]
+Mean inference time: 10.457152128219604
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-221.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1817333847284317[m], 6.548515319824219[deg]
+Mean inference time: 10.651248812675476
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-222.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1792493313550949[m], 6.488508939743042[deg]
+Mean inference time: 10.467303991317749
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-223.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19730013608932495[m], 6.314805030822754[deg]
+Mean inference time: 10.541049003601074
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-224.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18183355778455734[m], 6.229596376419067[deg]
+Mean inference time: 10.419384837150574
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-225.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19542279094457626[m], 6.380743980407715[deg]
+Mean inference time: 10.512468218803406
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-226.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18613335490226746[m], 6.1052329540252686[deg]
+Mean inference time: 10.47239375114441
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-227.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1963072046637535[m], 6.357999086380005[deg]
+Mean inference time: 10.425259113311768
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-228.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1938079297542572[m], 5.905671834945679[deg]
+Mean inference time: 10.567839503288269
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-229.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18325573205947876[m], 6.266756534576416[deg]
+Mean inference time: 10.396381974220276
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-230.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2139149159193039[m], 6.1801862716674805[deg]
+Mean inference time: 10.525384783744812
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-231.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1875307261943817[m], 6.304814577102661[deg]
+Mean inference time: 10.39980924129486
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-232.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18428760021924973[m], 6.230099201202393[deg]
+Mean inference time: 10.46040391921997
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-233.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18412455916404724[m], 6.5157811641693115[deg]
+Mean inference time: 10.533799171447754
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-234.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17649511247873306[m], 6.144545793533325[deg]
+Mean inference time: 10.400446772575378
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-235.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1796550378203392[m], 5.984961032867432[deg]
+Mean inference time: 10.542416095733643
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-236.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18957588076591492[m], 6.439626932144165[deg]
+Mean inference time: 10.524576187133789
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-237.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1946120783686638[m], 6.479388236999512[deg]
+Mean inference time: 10.53534471988678
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-238.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19338494539260864[m], 6.523175001144409[deg]
+Mean inference time: 10.684342384338379
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-239.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18706952035427094[m], 6.289146661758423[deg]
+Mean inference time: 10.357749223709106
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-240.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19269893318414688[m], 6.385528326034546[deg]
+Mean inference time: 10.522195219993591
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-241.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18937701731920242[m], 6.323418617248535[deg]
+Mean inference time: 10.377384662628174
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-242.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19942060858011246[m], 6.543791055679321[deg]
+Mean inference time: 10.638781905174255
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-243.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19370971620082855[m], 6.272876739501953[deg]
+Mean inference time: 10.437701225280762
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-244.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18337755650281906[m], 6.272688627243042[deg]
+Mean inference time: 10.460600852966309
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-245.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18978449702262878[m], 6.278242349624634[deg]
+Mean inference time: 10.497915029525757
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-246.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19028617441654205[m], 6.493154048919678[deg]
+Mean inference time: 10.501615047454834
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-247.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18512243032455444[m], 6.208758592605591[deg]
+Mean inference time: 10.480085015296936
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-248.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1797981858253479[m], 6.669086456298828[deg]
+Mean inference time: 10.649471402168274
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-249.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19033995270729065[m], 6.568755626678467[deg]
+Mean inference time: 10.456853151321411
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-250.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18915875256061554[m], 6.425747632980347[deg]
+Mean inference time: 10.417924165725708
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-251.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18674347549676895[m], 6.411046981811523[deg]
+Mean inference time: 10.464033961296082
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-252.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19344667345285416[m], 6.412145614624023[deg]
+Mean inference time: 10.578454971313477
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-253.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19456318020820618[m], 6.340608596801758[deg]
+Mean inference time: 10.482537031173706
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-254.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18308717012405396[m], 6.034408092498779[deg]
+Mean inference time: 10.484540939331055
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-255.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19056431204080582[m], 6.200366497039795[deg]
+Mean inference time: 10.408462762832642
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-256.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19005802273750305[m], 6.573581695556641[deg]
+Mean inference time: 10.36113429069519
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-257.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18968183547258377[m], 6.537924289703369[deg]
+Mean inference time: 10.539920926094055
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-258.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19915041327476501[m], 6.494419813156128[deg]
+Mean inference time: 10.441394686698914
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-259.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18466931581497192[m], 6.471165895462036[deg]
+Mean inference time: 10.474316239356995
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-260.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18888403475284576[m], 6.567682266235352[deg]
+Mean inference time: 10.496395230293274
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-261.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19298697263002396[m], 6.403591871261597[deg]
+Mean inference time: 10.398900389671326
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-262.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18642423301935196[m], 6.334863662719727[deg]
+Mean inference time: 10.470997333526611
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-263.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19013583660125732[m], 6.441328287124634[deg]
+Mean inference time: 10.398101210594177
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-264.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1923540011048317[m], 6.4733452796936035[deg]
+Mean inference time: 10.43162477016449
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-265.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19236715137958527[m], 6.591130018234253[deg]
+Mean inference time: 10.607162237167358
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-266.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18969598412513733[m], 6.456750154495239[deg]
+Mean inference time: 10.540142893791199
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-267.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18967996537685394[m], 6.521132707595825[deg]
+Mean inference time: 10.591181874275208
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-268.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18516746163368225[m], 6.402793884277344[deg]
+Mean inference time: 10.325091242790222
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-269.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18655718863010406[m], 6.827723026275635[deg]
+Mean inference time: 10.416378378868103
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-270.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20163444429636002[m], 6.842731952667236[deg]
+Mean inference time: 10.525553107261658
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-271.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.2058655098080635[m], 6.396188497543335[deg]
+Mean inference time: 10.472651243209839
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-272.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20196887850761414[m], 6.316541910171509[deg]
+Mean inference time: 10.426503419876099
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-273.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19148603826761246[m], 6.658803939819336[deg]
+Mean inference time: 10.386144638061523
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-274.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1897764578461647[m], 6.624018430709839[deg]
+Mean inference time: 10.52838146686554
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-275.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17688090354204178[m], 6.433360576629639[deg]
+Mean inference time: 10.656307578086853
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-276.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19413457810878754[m], 6.516689300537109[deg]
+Mean inference time: 10.489890456199646
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-277.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20172900706529617[m], 6.147404193878174[deg]
+Mean inference time: 10.56345534324646
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-278.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18543409556150436[m], 6.489534616470337[deg]
+Mean inference time: 10.398397564888
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-279.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18553321063518524[m], 6.444428205490112[deg]
+Mean inference time: 10.538710713386536
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-280.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19229119271039963[m], 6.424712181091309[deg]
+Mean inference time: 10.395451784133911
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-281.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18785228580236435[m], 6.509295225143433[deg]
+Mean inference time: 10.507420182228088
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-282.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18091728538274765[m], 6.344867706298828[deg]
+Mean inference time: 10.55567491054535
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-283.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17477162927389145[m], 6.504240036010742[deg]
+Mean inference time: 10.558463454246521
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-284.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18412700295448303[m], 6.523295640945435[deg]
+Mean inference time: 10.597410321235657
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-285.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18888800591230392[m], 6.53948187828064[deg]
+Mean inference time: 10.404461145401001
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-286.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17524675279855728[m], 6.692822694778442[deg]
+Mean inference time: 10.533958554267883
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-287.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17214255034923553[m], 6.418794393539429[deg]
+Mean inference time: 10.46899151802063
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-288.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19801271706819534[m], 6.78970742225647[deg]
+Mean inference time: 10.416547894477844
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-289.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17588185518980026[m], 6.464750528335571[deg]
+Mean inference time: 10.574893355369568
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-290.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18632417172193527[m], 6.568218946456909[deg]
+Mean inference time: 10.443774104118347
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-291.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1834898144006729[m], 6.929338455200195[deg]
+Mean inference time: 10.489314317703247
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-292.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18477453291416168[m], 6.610468149185181[deg]
+Mean inference time: 10.390955805778503
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-293.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19489022344350815[m], 6.835747718811035[deg]
+Mean inference time: 10.410518884658813
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-294.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1699710711836815[m], 6.506707429885864[deg]
+Mean inference time: 10.483065485954285
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-295.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17859609425067902[m], 6.555330038070679[deg]
+Mean inference time: 10.502960324287415
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-296.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18548712879419327[m], 6.7146100997924805[deg]
+Mean inference time: 10.60683262348175
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-297.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18184403330087662[m], 6.570722341537476[deg]
+Mean inference time: 10.46781861782074
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-298.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1694292053580284[m], 6.636656999588013[deg]
+Mean inference time: 10.547205090522766
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-299.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17852135747671127[m], 6.368643760681152[deg]
+Mean inference time: 10.560200214385986
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-300.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17944103479385376[m], 6.480839490890503[deg]
+Mean inference time: 10.449747562408447
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-301.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19988851249217987[m], 6.261506795883179[deg]
+Mean inference time: 10.396373510360718
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-302.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.194255530834198[m], 6.532291412353516[deg]
+Mean inference time: 10.441287279129028
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-303.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1945347636938095[m], 6.440721035003662[deg]
+Mean inference time: 10.663043737411499
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-304.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19352202117443085[m], 6.7269017696380615[deg]
+Mean inference time: 10.596356987953186
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-305.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18633943796157837[m], 6.66679573059082[deg]
+Mean inference time: 10.584077000617981
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-306.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19264813512563705[m], 6.460872650146484[deg]
+Mean inference time: 10.497310161590576
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-307.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17920194566249847[m], 6.561777353286743[deg]
+Mean inference time: 10.438130021095276
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-308.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1866663694381714[m], 6.572450160980225[deg]
+Mean inference time: 10.51673150062561
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-309.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18269965052604675[m], 6.60282301902771[deg]
+Mean inference time: 10.475701808929443
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-310.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1739760786294937[m], 6.6919450759887695[deg]
+Mean inference time: 10.546580791473389
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-311.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19752508401870728[m], 6.624845266342163[deg]
+Mean inference time: 10.577523231506348
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-312.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18993430584669113[m], 6.639782905578613[deg]
+Mean inference time: 10.50321078300476
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-313.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1946350336074829[m], 6.945424795150757[deg]
+Mean inference time: 10.519086718559265
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-314.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1940077766776085[m], 6.683865308761597[deg]
+Mean inference time: 10.494234323501587
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-315.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18124773353338242[m], 6.685270547866821[deg]
+Mean inference time: 10.491501450538635
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-316.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1931937038898468[m], 6.65509819984436[deg]
+Mean inference time: 10.596953988075256
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-317.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.197482667863369[m], 6.451775550842285[deg]
+Mean inference time: 10.44503903388977
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-318.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1774619147181511[m], 6.642848491668701[deg]
+Mean inference time: 10.449544548988342
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-319.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17929131537675858[m], 6.632230281829834[deg]
+Mean inference time: 10.472688436508179
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-320.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18624626100063324[m], 6.611416339874268[deg]
+Mean inference time: 10.437892436981201
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-321.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18940501660108566[m], 6.646501779556274[deg]
+Mean inference time: 10.44356632232666
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-322.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1838248372077942[m], 6.522990465164185[deg]
+Mean inference time: 10.450424194335938
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-323.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19087915867567062[m], 6.801636457443237[deg]
+Mean inference time: 10.55517566204071
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-324.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18806995451450348[m], 6.696566343307495[deg]
+Mean inference time: 10.505096912384033
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-325.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18984591215848923[m], 6.54079794883728[deg]
+Mean inference time: 10.6908198595047
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-326.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18493463844060898[m], 6.42684531211853[deg]
+Mean inference time: 10.571935892105103
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-327.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17268671095371246[m], 6.660097122192383[deg]
+Mean inference time: 10.504829287528992
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-328.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18884847313165665[m], 6.502130508422852[deg]
+Mean inference time: 10.538946270942688
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-329.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19024202972650528[m], 6.880907297134399[deg]
+Mean inference time: 10.548845410346985
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-330.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18103758990764618[m], 6.548636198043823[deg]
+Mean inference time: 10.419623494148254
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-331.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1793287768959999[m], 6.432992935180664[deg]
+Mean inference time: 10.541684627532959
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-332.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19409629702568054[m], 6.367167949676514[deg]
+Mean inference time: 10.461257934570312
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-333.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1929815486073494[m], 6.754321098327637[deg]
+Mean inference time: 10.482731699943542
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-334.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19074099510908127[m], 6.674133539199829[deg]
+Mean inference time: 10.653334259986877
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-335.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18847300857305527[m], 6.676714658737183[deg]
+Mean inference time: 10.614262700080872
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-336.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1870751529932022[m], 6.893020153045654[deg]
+Mean inference time: 10.593335032463074
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-337.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18352044373750687[m], 6.6562745571136475[deg]
+Mean inference time: 10.629168033599854
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-338.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18806425482034683[m], 6.679821729660034[deg]
+Mean inference time: 10.55997085571289
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-339.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17768774926662445[m], 6.546479225158691[deg]
+Mean inference time: 10.708657264709473
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-340.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19090502709150314[m], 6.6062023639678955[deg]
+Mean inference time: 10.577486753463745
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-341.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17828482389450073[m], 7.234941005706787[deg]
+Mean inference time: 10.714894890785217
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-342.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1875777244567871[m], 6.728821754455566[deg]
+Mean inference time: 10.969570279121399
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-343.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18843286484479904[m], 6.565893650054932[deg]
+Mean inference time: 11.09178626537323
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-344.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20245333015918732[m], 6.414832353591919[deg]
+Mean inference time: 10.627424120903015
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-345.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18534593284130096[m], 6.651037216186523[deg]
+Mean inference time: 10.69297969341278
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-346.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18881946802139282[m], 6.6436145305633545[deg]
+Mean inference time: 10.502000093460083
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-347.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18297625333070755[m], 6.7163591384887695[deg]
+Mean inference time: 10.76207947731018
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-348.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1765446737408638[m], 6.680994510650635[deg]
+Mean inference time: 10.448722004890442
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-349.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19745143502950668[m], 6.4853692054748535[deg]
+Mean inference time: 10.628434896469116
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-350.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19064339250326157[m], 6.671023845672607[deg]
+Mean inference time: 10.872295022010803
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-351.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1920701116323471[m], 6.7416136264801025[deg]
+Mean inference time: 10.656269073486328
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-352.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20173437893390656[m], 6.51855206489563[deg]
+Mean inference time: 10.504368305206299
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-353.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17554603517055511[m], 6.778048992156982[deg]
+Mean inference time: 10.701078176498413
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-354.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1745935156941414[m], 6.628271102905273[deg]
+Mean inference time: 10.756704092025757
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-355.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18442665040493011[m], 6.640483140945435[deg]
+Mean inference time: 10.508152842521667
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-356.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19665636122226715[m], 6.770304203033447[deg]
+Mean inference time: 10.495939254760742
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-357.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20603632181882858[m], 6.2397706508636475[deg]
+Mean inference time: 10.582513570785522
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-358.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18789618462324142[m], 6.417328119277954[deg]
+Mean inference time: 10.582901239395142
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-359.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1830541044473648[m], 6.5760815143585205[deg]
+Mean inference time: 10.751912951469421
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-360.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17408619076013565[m], 6.956350088119507[deg]
+Mean inference time: 10.796096682548523
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-361.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1894901618361473[m], 6.897336006164551[deg]
+Mean inference time: 10.788374543190002
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-362.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1998167708516121[m], 6.488569498062134[deg]
+Mean inference time: 10.904184818267822
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-363.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18566612899303436[m], 6.703404188156128[deg]
+Mean inference time: 10.476637959480286
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-364.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1844206154346466[m], 6.419590711593628[deg]
+Mean inference time: 10.592492580413818
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-365.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1812560260295868[m], 6.5923779010772705[deg]
+Mean inference time: 11.00127387046814
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-366.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18771185725927353[m], 6.303635120391846[deg]
+Mean inference time: 10.600191831588745
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-367.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18371660262346268[m], 6.503518104553223[deg]
+Mean inference time: 10.405280470848083
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-368.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18511731922626495[m], 6.745388746261597[deg]
+Mean inference time: 10.550590872764587
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-369.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19392434507608414[m], 6.708658218383789[deg]
+Mean inference time: 10.370986938476562
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-370.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18506371974945068[m], 6.573462724685669[deg]
+Mean inference time: 10.597450017929077
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-371.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1802336797118187[m], 6.7281835079193115[deg]
+Mean inference time: 10.837852358818054
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-372.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.185443215072155[m], 6.721778631210327[deg]
+Mean inference time: 10.842458128929138
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-373.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17234116792678833[m], 6.698728561401367[deg]
+Mean inference time: 11.036318898200989
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-374.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18918228149414062[m], 6.532352924346924[deg]
+Mean inference time: 10.624602794647217
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-375.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.20191272348165512[m], 6.564098596572876[deg]
+Mean inference time: 10.496081709861755
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-376.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18318478763103485[m], 6.901989698410034[deg]
+Mean inference time: 10.770260691642761
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-377.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18410660326480865[m], 6.703228712081909[deg]
+Mean inference time: 10.621059656143188
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-378.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18908172845840454[m], 7.036502361297607[deg]
+Mean inference time: 10.624191999435425
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-379.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17492929100990295[m], 6.9586052894592285[deg]
+Mean inference time: 10.509409070014954
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-380.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1737150251865387[m], 6.733938455581665[deg]
+Mean inference time: 10.56756591796875
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-381.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19305246323347092[m], 6.997269630432129[deg]
+Mean inference time: 10.820803761482239
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-382.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18155871331691742[m], 6.786940336227417[deg]
+Mean inference time: 10.667592287063599
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-383.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18506265431642532[m], 6.690891981124878[deg]
+Mean inference time: 10.555168509483337
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-384.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19689896702766418[m], 6.838897228240967[deg]
+Mean inference time: 10.44272792339325
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-385.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16876733303070068[m], 6.582451105117798[deg]
+Mean inference time: 11.016218662261963
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-386.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18192174285650253[m], 6.497313737869263[deg]
+Mean inference time: 10.627836346626282
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-387.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18372363597154617[m], 6.731092691421509[deg]
+Mean inference time: 10.60595715045929
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-388.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17372071743011475[m], 6.865754842758179[deg]
+Mean inference time: 10.59923791885376
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-389.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19525596499443054[m], 6.64019513130188[deg]
+Mean inference time: 10.847299695014954
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-390.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.19560974091291428[m], 6.55664324760437[deg]
+Mean inference time: 10.753105998039246
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-391.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18540940433740616[m], 6.503818988800049[deg]
+Mean inference time: 10.414103507995605
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-392.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17892548441886902[m], 6.743413925170898[deg]
+Mean inference time: 10.618457078933716
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-393.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17910264432430267[m], 6.554314136505127[deg]
+Mean inference time: 10.520994901657104
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-394.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17511587589979172[m], 6.717232942581177[deg]
+Mean inference time: 10.766616463661194
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-395.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.175730362534523[m], 6.925155878067017[deg]
+Mean inference time: 10.524653196334839
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-396.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.17834603041410446[m], 6.605313301086426[deg]
+Mean inference time: 10.792526245117188
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-397.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.1926148161292076[m], 6.446735620498657[deg]
+Mean inference time: 10.586009979248047
+Performance of /home/transposenet/out/run_26_07_24_01_46_pumpkin_checkpoint-398.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.18186471611261368[m], 6.842904329299927[deg]
+Mean inference time: 10.620851874351501
+
+

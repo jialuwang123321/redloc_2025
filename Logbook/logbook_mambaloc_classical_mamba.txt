@@ -1,0 +1,39 @@
+
+
+--------------------------------------------------------------------------------------------------------
+            MambaLoc
+----------------------------------------------------------------------------
+
+ 加速
+source /etc/network_turbo
+
+
+
+# chess
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess --use_classical_mamba True
+
+Performance of /home/transposenet/out/run_04_08_24_06_22_chess_mamba_skip_1_checkpoint-90.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0940731056034565[m], 6.549533128738403[deg]
+Mean inference time: 15.020507454872131
+
+# pumpkin
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin --use_classical_mamba True
+
+Performance of /home/transposenet/out/run_04_08_24_06_22_pumpkin_mamba_skip_1_checkpoint-44.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.16163169592618942[m], 5.8819591999053955[deg]
+Mean inference time: 15.8366197347641
+
+
+# office
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office --use_classical_mamba True
+
+Performance of /home/transposenet/out/run_04_08_24_19_11_office_mamba_skip_1_checkpoint-60.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
+Median pose error: 0.17306360602378845[m], 7.101150035858154[deg]
+Mean inference time: 11.478481590747833
+
+# heads
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --use_classical_mamba True
+
+Performance of /home/transposenet/out/run_04_08_24_19_12_heads_mamba_skip_1_checkpoint-172.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv
+Median pose error: 0.1246642917394638[m], 12.835950374603271[deg]
+Mean inference time: 12.275511741638184

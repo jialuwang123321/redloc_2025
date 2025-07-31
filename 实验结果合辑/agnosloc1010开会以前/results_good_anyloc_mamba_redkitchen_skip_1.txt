@@ -1,0 +1,3 @@
+Performance of /home/transposenet/out/run_07_10_24_15_11_redkitchen_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test.csv
+Median pose error: 0.3290538489818573[m], 9.245200634002686[deg]
+Mean inference time: 12.44023265838623

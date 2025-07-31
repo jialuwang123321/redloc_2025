@@ -1,0 +1,6 @@
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test.csv
+Median pose error: 0.1704200878739357[m], 5.967599391937256[deg]
+Mean inference time: 10.909208059310913
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test.csv
+Median pose error: 0.767655998468399[m], 28.220145225524902[deg]
+Mean inference time: 10.902561950683594

@@ -1,0 +1,1000 @@
+
+skip=3
+
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.29602721333503723[m], 11.316047191619873[deg]
+Mean inference time: 10.895105838775635
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-2.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.23912867158651352[m], 10.634352207183838[deg]
+Mean inference time: 11.19756305217743
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-3.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.22852607816457748[m], 8.547126770019531[deg]
+Mean inference time: 10.842922806739807
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-4.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.3750666230916977[m], 9.43014144897461[deg]
+Mean inference time: 10.929474949836731
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-5.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.19275211542844772[m], 8.289686679840088[deg]
+Mean inference time: 10.721710801124573
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-6.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.19897142052650452[m], 7.10721230506897[deg]
+Mean inference time: 10.716212511062622
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-7.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.17538676410913467[m], 9.250157833099365[deg]
+Mean inference time: 10.738151669502258
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-8.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.15100350975990295[m], 6.721545457839966[deg]
+Mean inference time: 10.805362939834595
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-9.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.15233252197504044[m], 7.397974729537964[deg]
+Mean inference time: 10.720495343208313
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-10.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.22769152373075485[m], 7.100819110870361[deg]
+Mean inference time: 10.682203531265259
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-11.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1627480536699295[m], 6.2765586376190186[deg]
+Mean inference time: 11.335359811782837
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-12.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.15883203595876694[m], 6.787805557250977[deg]
+Mean inference time: 10.594932317733765
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-13.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.15061461925506592[m], 6.71624231338501[deg]
+Mean inference time: 10.745607852935791
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-14.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14552798867225647[m], 6.898755311965942[deg]
+Mean inference time: 11.148308277130127
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-15.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.16620423644781113[m], 6.573399782180786[deg]
+Mean inference time: 10.977889776229858
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-16.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1433737352490425[m], 6.854796409606934[deg]
+Mean inference time: 10.678592920303345
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-17.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.13977819681167603[m], 5.986788988113403[deg]
+Mean inference time: 10.792011618614197
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-18.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.15874742716550827[m], 6.953819274902344[deg]
+Mean inference time: 10.877780675888062
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-19.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14033062011003494[m], 6.369134187698364[deg]
+Mean inference time: 10.73319399356842
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-20.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1678823009133339[m], 5.943011283874512[deg]
+Mean inference time: 10.75131356716156
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-21.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1434328928589821[m], 6.775853633880615[deg]
+Mean inference time: 10.876550197601318
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-22.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12513229995965958[m], 6.056751012802124[deg]
+Mean inference time: 10.993044018745422
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-23.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1430346518754959[m], 6.144036293029785[deg]
+Mean inference time: 11.164981842041016
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-24.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.13492409884929657[m], 6.792476177215576[deg]
+Mean inference time: 11.117182612419128
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-25.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14069359749555588[m], 5.972977638244629[deg]
+Mean inference time: 10.945327758789062
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-26.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14649926871061325[m], 6.147794961929321[deg]
+Mean inference time: 10.751834511756897
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-27.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1271681785583496[m], 6.045168876647949[deg]
+Mean inference time: 10.804093480110168
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-28.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14231472462415695[m], 6.167818546295166[deg]
+Mean inference time: 11.112391471862793
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-29.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12087363749742508[m], 6.390430927276611[deg]
+Mean inference time: 10.700864911079407
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-30.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.13886523991823196[m], 6.1523120403289795[deg]
+Mean inference time: 10.64431345462799
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-31.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12233170866966248[m], 5.984437465667725[deg]
+Mean inference time: 10.703362941741943
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-32.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.16080763936042786[m], 6.474614858627319[deg]
+Mean inference time: 10.945847868919373
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-33.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11292916908860207[m], 6.210398435592651[deg]
+Mean inference time: 10.857709050178528
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-34.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.13638705015182495[m], 6.284101247787476[deg]
+Mean inference time: 10.726593852043152
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-35.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12030617892742157[m], 5.8277270793914795[deg]
+Mean inference time: 10.823207378387451
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-36.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11752182617783546[m], 6.209129095077515[deg]
+Mean inference time: 10.726406812667847
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-37.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12361705303192139[m], 5.746273756027222[deg]
+Mean inference time: 10.69774043560028
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-38.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11765266954898834[m], 6.521493673324585[deg]
+Mean inference time: 10.74858832359314
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-39.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12339907884597778[m], 6.259317636489868[deg]
+Mean inference time: 10.902413845062256
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-40.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11542772501707077[m], 5.792958974838257[deg]
+Mean inference time: 11.14294958114624
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-41.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11815062165260315[m], 5.83672308921814[deg]
+Mean inference time: 10.618116021156311
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-42.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.14312002807855606[m], 6.521434307098389[deg]
+Mean inference time: 11.027049541473389
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-43.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12996164709329605[m], 5.7212815284729[deg]
+Mean inference time: 11.11394715309143
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-44.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11198738217353821[m], 6.999892950057983[deg]
+Mean inference time: 11.211467742919922
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-45.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12632647901773453[m], 6.387665033340454[deg]
+Mean inference time: 10.77713429927826
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-46.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11516144126653671[m], 5.707580327987671[deg]
+Mean inference time: 10.949098229408264
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-47.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1081121526658535[m], 6.091365098953247[deg]
+Mean inference time: 11.003475904464722
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-48.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11202830076217651[m], 6.702702760696411[deg]
+Mean inference time: 10.731770515441895
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-49.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09883163496851921[m], 6.121692180633545[deg]
+Mean inference time: 11.050700306892395
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-50.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11505035683512688[m], 6.764690637588501[deg]
+Mean inference time: 10.904104113578796
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-51.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10329971462488174[m], 5.593257188796997[deg]
+Mean inference time: 10.591641187667847
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-52.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11493701115250587[m], 5.524449348449707[deg]
+Mean inference time: 10.648403763771057
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-53.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10651286691427231[m], 6.2726171016693115[deg]
+Mean inference time: 10.947737455368042
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-54.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10139379650354385[m], 5.910378932952881[deg]
+Mean inference time: 10.816357851028442
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-55.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10677842795848846[m], 5.7937023639678955[deg]
+Mean inference time: 10.981484293937683
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-56.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10636891424655914[m], 6.376136779785156[deg]
+Mean inference time: 10.804028630256653
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-57.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11626370996236801[m], 5.883489370346069[deg]
+Mean inference time: 11.009241700172424
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-58.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1075759269297123[m], 5.217587947845459[deg]
+Mean inference time: 11.189378023147583
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-59.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11142773553729057[m], 6.174421787261963[deg]
+Mean inference time: 11.17707073688507
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-60.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10950962454080582[m], 5.852196931838989[deg]
+Mean inference time: 10.728299140930176
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-61.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11586622148752213[m], 6.144800901412964[deg]
+Mean inference time: 11.428563594818115
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-62.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1020023301243782[m], 5.772782564163208[deg]
+Mean inference time: 11.251855254173279
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-63.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12793216854333878[m], 6.296986103057861[deg]
+Mean inference time: 10.67625629901886
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-64.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11829715222120285[m], 6.16299295425415[deg]
+Mean inference time: 11.344844460487366
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-65.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09716394171118736[m], 5.627724885940552[deg]
+Mean inference time: 11.407987475395203
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-66.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11711367219686508[m], 6.399546384811401[deg]
+Mean inference time: 11.039530038833618
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-67.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10246267914772034[m], 5.817629098892212[deg]
+Mean inference time: 10.973439931869507
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-68.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10188797861337662[m], 5.971666097640991[deg]
+Mean inference time: 10.74570345878601
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-69.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.12244216725230217[m], 5.883024215698242[deg]
+Mean inference time: 11.748637557029724
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-70.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1065089963376522[m], 6.375771522521973[deg]
+Mean inference time: 11.405414342880249
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-71.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11961765214800835[m], 7.260279893875122[deg]
+Mean inference time: 11.488281607627869
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-72.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11416070908308029[m], 5.342080354690552[deg]
+Mean inference time: 11.722002267837524
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-73.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11831111833453178[m], 5.826719760894775[deg]
+Mean inference time: 11.574118852615356
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-74.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10408908128738403[m], 6.817334413528442[deg]
+Mean inference time: 11.432385802268982
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-75.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11544261500239372[m], 5.732767105102539[deg]
+Mean inference time: 11.058669924736023
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-76.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10461798310279846[m], 6.1601316928863525[deg]
+Mean inference time: 11.38827919960022
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-77.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10337039455771446[m], 5.954858303070068[deg]
+Mean inference time: 11.375370860099792
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-78.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11152501404285431[m], 6.390493154525757[deg]
+Mean inference time: 11.079363465309143
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-79.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11301262676715851[m], 6.012242794036865[deg]
+Mean inference time: 11.005009651184082
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-80.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11160227283835411[m], 5.882890701293945[deg]
+Mean inference time: 11.490379095077515
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-81.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09798842296004295[m], 5.797620058059692[deg]
+Mean inference time: 11.619501233100891
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-82.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09214576333761215[m], 6.199476480484009[deg]
+Mean inference time: 11.087419509887695
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-83.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10496306419372559[m], 6.400286912918091[deg]
+Mean inference time: 10.57587456703186
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-84.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09534662589430809[m], 6.59130859375[deg]
+Mean inference time: 11.34099817276001
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-85.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10807182267308235[m], 5.876431465148926[deg]
+Mean inference time: 11.2034250497818
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-86.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10792563855648041[m], 5.979919910430908[deg]
+Mean inference time: 10.982478141784668
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-87.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1103389672935009[m], 5.971008539199829[deg]
+Mean inference time: 10.951364874839783
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-88.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11857219785451889[m], 6.055134534835815[deg]
+Mean inference time: 10.796185970306396
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-89.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1099465936422348[m], 6.133446931838989[deg]
+Mean inference time: 10.978393912315369
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-90.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09680619835853577[m], 5.6928136348724365[deg]
+Mean inference time: 10.992926836013794
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-91.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11063823476433754[m], 5.247367858886719[deg]
+Mean inference time: 11.325005412101746
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-92.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10614162310957909[m], 6.482832431793213[deg]
+Mean inference time: 11.03719186782837
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-93.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09742169454693794[m], 5.7716310024261475[deg]
+Mean inference time: 10.892158508300781
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-94.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10405213385820389[m], 5.470541954040527[deg]
+Mean inference time: 10.881758213043213
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-95.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10856346786022186[m], 5.32526969909668[deg]
+Mean inference time: 10.711639761924744
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-96.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1016787588596344[m], 5.792823553085327[deg]
+Mean inference time: 10.906073451042175
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-97.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09837054833769798[m], 5.462234735488892[deg]
+Mean inference time: 11.522367477416992
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-98.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10405028238892555[m], 6.006965160369873[deg]
+Mean inference time: 11.343225479125977
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-99.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10895364731550217[m], 5.622439384460449[deg]
+Mean inference time: 11.515254020690918
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-100.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1019861102104187[m], 5.680697202682495[deg]
+Mean inference time: 10.925835013389587
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-101.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10381843894720078[m], 5.630510330200195[deg]
+Mean inference time: 10.90896475315094
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-102.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08917678892612457[m], 5.756887674331665[deg]
+Mean inference time: 10.728418588638306
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-103.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09896678104996681[m], 5.942814588546753[deg]
+Mean inference time: 11.486871004104614
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-104.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10626792162656784[m], 5.756620407104492[deg]
+Mean inference time: 11.469585180282593
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-105.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11626125872135162[m], 5.79539155960083[deg]
+Mean inference time: 11.586650371551514
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-106.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10012897476553917[m], 6.200300931930542[deg]
+Mean inference time: 11.180926084518433
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-107.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09892871230840683[m], 5.958210468292236[deg]
+Mean inference time: 11.352964997291565
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-108.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09025787934660912[m], 5.829875946044922[deg]
+Mean inference time: 11.381142616271973
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-109.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09362056851387024[m], 5.7777276039123535[deg]
+Mean inference time: 10.798285484313965
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-110.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10110282897949219[m], 5.401767253875732[deg]
+Mean inference time: 10.80627954006195
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-111.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10681575909256935[m], 5.9571568965911865[deg]
+Mean inference time: 10.732242584228516
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-112.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10497292503714561[m], 6.154860258102417[deg]
+Mean inference time: 10.70497977733612
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-113.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09896587952971458[m], 6.317781448364258[deg]
+Mean inference time: 10.877019762992859
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-114.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10004351288080215[m], 6.020312309265137[deg]
+Mean inference time: 10.894883275032043
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-115.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09696417674422264[m], 6.2749364376068115[deg]
+Mean inference time: 10.778326869010925
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-116.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10303277894854546[m], 5.627240896224976[deg]
+Mean inference time: 10.772526621818542
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-117.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10289375111460686[m], 6.392881870269775[deg]
+Mean inference time: 10.646027207374573
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-118.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0944322869181633[m], 5.935496091842651[deg]
+Mean inference time: 10.922578573226929
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-119.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09299725666642189[m], 5.94334077835083[deg]
+Mean inference time: 11.403833389282227
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-120.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09960465133190155[m], 5.57243013381958[deg]
+Mean inference time: 10.925424933433533
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-121.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09522189944982529[m], 5.946107864379883[deg]
+Mean inference time: 10.824765682220459
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-122.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09121385216712952[m], 6.444610834121704[deg]
+Mean inference time: 10.664461851119995
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-123.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11577172949910164[m], 5.526713848114014[deg]
+Mean inference time: 11.388870239257812
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-124.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1005244143307209[m], 6.269068241119385[deg]
+Mean inference time: 11.017260670661926
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-125.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09228295832872391[m], 6.343757390975952[deg]
+Mean inference time: 10.618266344070435
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-126.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10242827609181404[m], 5.973433494567871[deg]
+Mean inference time: 10.73649549484253
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-127.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09450484067201614[m], 6.114972829818726[deg]
+Mean inference time: 10.675882935523987
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-128.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09287475422024727[m], 6.210020303726196[deg]
+Mean inference time: 11.019485592842102
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-129.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09239174798130989[m], 5.60067081451416[deg]
+Mean inference time: 10.763603448867798
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-130.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09553434699773788[m], 5.594656944274902[deg]
+Mean inference time: 11.405642032623291
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-131.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09676449000835419[m], 6.005336046218872[deg]
+Mean inference time: 11.481088638305664
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-132.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09788961708545685[m], 6.135103702545166[deg]
+Mean inference time: 11.08371639251709
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-133.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10162055492401123[m], 5.6050732135772705[deg]
+Mean inference time: 11.463353395462036
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-134.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09991243481636047[m], 5.958800315856934[deg]
+Mean inference time: 10.645221829414368
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-135.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0963728241622448[m], 5.819188594818115[deg]
+Mean inference time: 10.616057634353638
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-136.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1053219810128212[m], 5.901030778884888[deg]
+Mean inference time: 10.901028871536255
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-137.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10256712511181831[m], 6.033499479293823[deg]
+Mean inference time: 10.688528895378113
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-138.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09253216534852982[m], 6.026676654815674[deg]
+Mean inference time: 11.317578673362732
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-139.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10591571405529976[m], 5.997701644897461[deg]
+Mean inference time: 10.91307520866394
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-140.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09619200229644775[m], 6.231231451034546[deg]
+Mean inference time: 11.320737600326538
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-141.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09401122480630875[m], 5.78863000869751[deg]
+Mean inference time: 10.764583945274353
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-142.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09612113609910011[m], 5.801736116409302[deg]
+Mean inference time: 11.272592544555664
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-143.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09235087782144547[m], 5.630648374557495[deg]
+Mean inference time: 10.696097254753113
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-144.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09219793602824211[m], 6.232424736022949[deg]
+Mean inference time: 10.69850218296051
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-145.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09669282287359238[m], 6.18987512588501[deg]
+Mean inference time: 10.705585241317749
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-146.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09170786291360855[m], 5.868297576904297[deg]
+Mean inference time: 10.651525616645813
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-147.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10039547458291054[m], 6.112987995147705[deg]
+Mean inference time: 11.13538372516632
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-148.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10049011558294296[m], 6.533671140670776[deg]
+Mean inference time: 10.86654245853424
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-149.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09852984547615051[m], 6.06682562828064[deg]
+Mean inference time: 10.642588138580322
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-150.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09112610295414925[m], 5.73461127281189[deg]
+Mean inference time: 10.696577310562134
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-151.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09681018069386482[m], 6.128850936889648[deg]
+Mean inference time: 11.116171002388
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-152.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09523754566907883[m], 6.5265953540802[deg]
+Mean inference time: 10.737718939781189
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-153.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09601324424147606[m], 5.880028247833252[deg]
+Mean inference time: 10.662465214729309
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-154.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09383517131209373[m], 5.969761848449707[deg]
+Mean inference time: 10.818983316421509
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-155.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1127801164984703[m], 5.8286683559417725[deg]
+Mean inference time: 10.720511555671692
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-156.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09012698382139206[m], 6.060176134109497[deg]
+Mean inference time: 10.88706624507904
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-157.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0921042338013649[m], 6.213165760040283[deg]
+Mean inference time: 10.979681730270386
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-158.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09691793471574783[m], 6.279739141464233[deg]
+Mean inference time: 10.75841999053955
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-159.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09798955544829369[m], 6.193476915359497[deg]
+Mean inference time: 10.909635424613953
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-160.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1037350744009018[m], 6.75495982170105[deg]
+Mean inference time: 10.777953147888184
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-161.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10022434592247009[m], 5.9082581996917725[deg]
+Mean inference time: 11.004676103591919
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-162.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09936856105923653[m], 5.913623332977295[deg]
+Mean inference time: 10.634312748908997
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-163.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10441365465521812[m], 6.054940938949585[deg]
+Mean inference time: 11.062188863754272
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-164.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.11126279830932617[m], 5.916138410568237[deg]
+Mean inference time: 10.92554223537445
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-165.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1029948815703392[m], 6.171243190765381[deg]
+Mean inference time: 10.824375748634338
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-166.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0953206941485405[m], 6.119386911392212[deg]
+Mean inference time: 10.63963270187378
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-167.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09198841825127602[m], 5.548351287841797[deg]
+Mean inference time: 10.91922903060913
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-168.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0977451354265213[m], 6.095925807952881[deg]
+Mean inference time: 10.754396200180054
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-169.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10129426047205925[m], 6.378653049468994[deg]
+Mean inference time: 10.847488641738892
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-170.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10101346671581268[m], 6.07068133354187[deg]
+Mean inference time: 10.729767560958862
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-171.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09278639405965805[m], 6.13051176071167[deg]
+Mean inference time: 10.731896162033081
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-172.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0939209945499897[m], 6.0462048053741455[deg]
+Mean inference time: 10.80790388584137
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-173.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09818452596664429[m], 5.482622146606445[deg]
+Mean inference time: 10.685977101325989
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-174.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1046326793730259[m], 6.161279916763306[deg]
+Mean inference time: 10.70904529094696
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-175.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0963132344186306[m], 5.997898578643799[deg]
+Mean inference time: 10.662655591964722
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-176.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09085124731063843[m], 5.99176025390625[deg]
+Mean inference time: 10.995036125183105
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-177.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09883500263094902[m], 6.290454149246216[deg]
+Mean inference time: 11.304897904396057
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-178.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09111921861767769[m], 6.217643737792969[deg]
+Mean inference time: 10.795068383216858
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-179.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09467227756977081[m], 6.307919502258301[deg]
+Mean inference time: 10.77699899673462
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-180.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0974474549293518[m], 5.693431854248047[deg]
+Mean inference time: 10.83786928653717
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-181.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09254027158021927[m], 6.280611276626587[deg]
+Mean inference time: 10.702346444129944
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-182.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09686363488435745[m], 6.10600209236145[deg]
+Mean inference time: 10.807430386543274
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-183.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10646974667906761[m], 6.345978736877441[deg]
+Mean inference time: 10.82587993144989
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-184.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10688334703445435[m], 5.907926559448242[deg]
+Mean inference time: 10.699171543121338
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-185.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10794597491621971[m], 5.837191581726074[deg]
+Mean inference time: 10.767771005630493
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-186.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10226023569703102[m], 5.872633218765259[deg]
+Mean inference time: 10.617773532867432
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-187.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09732657670974731[m], 6.571258544921875[deg]
+Mean inference time: 10.717780709266663
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-188.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09145928546786308[m], 5.969764471054077[deg]
+Mean inference time: 10.756411671638489
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-189.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10061992332339287[m], 6.050930500030518[deg]
+Mean inference time: 10.689650535583496
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-190.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09791377931833267[m], 6.259818077087402[deg]
+Mean inference time: 10.722963094711304
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-191.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09850556403398514[m], 6.313442230224609[deg]
+Mean inference time: 10.809201955795288
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-192.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09659844264388084[m], 6.122779130935669[deg]
+Mean inference time: 10.551397323608398
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-193.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10956677421927452[m], 6.445520877838135[deg]
+Mean inference time: 10.937333941459656
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-194.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10072421282529831[m], 6.249426364898682[deg]
+Mean inference time: 10.745720386505127
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-195.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09392428770661354[m], 6.37650728225708[deg]
+Mean inference time: 10.786047458648682
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-196.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10124265775084496[m], 6.182152986526489[deg]
+Mean inference time: 10.935392022132874
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-197.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10117894411087036[m], 5.985614776611328[deg]
+Mean inference time: 10.672415494918823
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-198.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10243534669280052[m], 6.0016820430755615[deg]
+Mean inference time: 10.639543056488037
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-199.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10025259479880333[m], 6.478846788406372[deg]
+Mean inference time: 10.886023998260498
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-200.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09967852756381035[m], 6.581497430801392[deg]
+Mean inference time: 10.846270680427551
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-201.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09534210339188576[m], 6.210201740264893[deg]
+Mean inference time: 10.870734691619873
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-202.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09963076561689377[m], 5.863492012023926[deg]
+Mean inference time: 10.764561533927917
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-203.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08529846742749214[m], 6.072631359100342[deg]
+Mean inference time: 10.658033847808838
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-204.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10762349888682365[m], 6.175753355026245[deg]
+Mean inference time: 11.06769859790802
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-205.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09241311997175217[m], 6.205478191375732[deg]
+Mean inference time: 10.73575472831726
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-206.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09456656500697136[m], 6.498215436935425[deg]
+Mean inference time: 10.808618426322937
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-207.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09748945385217667[m], 5.960970163345337[deg]
+Mean inference time: 10.74404501914978
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-208.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10152680799365044[m], 5.864159345626831[deg]
+Mean inference time: 10.827114820480347
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-209.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10442720353603363[m], 6.011200666427612[deg]
+Mean inference time: 10.971924304962158
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-210.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09999347850680351[m], 5.6898558139801025[deg]
+Mean inference time: 10.983630657196045
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-211.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10091739520430565[m], 6.129809617996216[deg]
+Mean inference time: 10.726013422012329
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-212.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09839167818427086[m], 6.131913185119629[deg]
+Mean inference time: 10.93450152873993
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-213.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10175802558660507[m], 6.009505987167358[deg]
+Mean inference time: 10.798507571220398
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-214.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09681746736168861[m], 6.254624366760254[deg]
+Mean inference time: 10.563843727111816
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-215.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09272035583853722[m], 5.873233318328857[deg]
+Mean inference time: 10.752310514450073
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-216.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08591074123978615[m], 6.006314039230347[deg]
+Mean inference time: 10.662723183631897
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-217.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08754851296544075[m], 6.043614149093628[deg]
+Mean inference time: 11.074481844902039
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-218.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10663368180394173[m], 6.341534376144409[deg]
+Mean inference time: 10.70768129825592
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-219.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09689061716198921[m], 5.980444669723511[deg]
+Mean inference time: 10.802402377128601
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-220.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09301968291401863[m], 5.9550559520721436[deg]
+Mean inference time: 10.704690933227539
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-221.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0997626893222332[m], 6.493273496627808[deg]
+Mean inference time: 10.756166100502014
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-222.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08467740193009377[m], 6.259191036224365[deg]
+Mean inference time: 10.59567129611969
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-223.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10642360150814056[m], 5.9754674434661865[deg]
+Mean inference time: 10.928913474082947
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-224.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0927726998925209[m], 5.95308256149292[deg]
+Mean inference time: 11.017016053199768
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-225.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10153548419475555[m], 6.030251502990723[deg]
+Mean inference time: 10.795128464698792
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-226.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10030805692076683[m], 5.908722877502441[deg]
+Mean inference time: 10.634771585464478
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-227.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09665444493293762[m], 6.556464195251465[deg]
+Mean inference time: 10.794198155403137
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-228.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0885009765625[m], 6.26613187789917[deg]
+Mean inference time: 10.641855239868164
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-229.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10078459978103638[m], 6.2350544929504395[deg]
+Mean inference time: 10.836566090583801
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-230.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10255942493677139[m], 6.333192825317383[deg]
+Mean inference time: 10.687575817108154
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-231.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10481202229857445[m], 6.235377073287964[deg]
+Mean inference time: 10.852055191993713
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-232.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09231415390968323[m], 6.425261497497559[deg]
+Mean inference time: 10.655077338218689
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-233.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09102611243724823[m], 5.995940923690796[deg]
+Mean inference time: 10.847162127494812
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-234.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09275387972593307[m], 6.711927175521851[deg]
+Mean inference time: 10.851247787475586
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-235.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10444633290171623[m], 6.145882844924927[deg]
+Mean inference time: 10.735587000846863
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-236.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09382756426930428[m], 6.245290040969849[deg]
+Mean inference time: 10.73761773109436
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-237.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10408517345786095[m], 6.264068126678467[deg]
+Mean inference time: 10.640700101852417
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-238.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09224364161491394[m], 6.312445640563965[deg]
+Mean inference time: 11.473483800888062
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-239.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09440222010016441[m], 6.252182960510254[deg]
+Mean inference time: 10.609233856201172
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-240.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09912355989217758[m], 6.744343042373657[deg]
+Mean inference time: 10.783076167106628
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-241.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09427272900938988[m], 6.284345388412476[deg]
+Mean inference time: 10.8386869430542
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-242.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09547039121389389[m], 6.761738300323486[deg]
+Mean inference time: 10.805940747261047
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-243.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09833402186632156[m], 6.658862590789795[deg]
+Mean inference time: 10.649266839027405
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-244.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08751708641648293[m], 6.3347392082214355[deg]
+Mean inference time: 10.753320455551147
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-245.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10296150296926498[m], 6.3563361167907715[deg]
+Mean inference time: 10.75328242778778
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-246.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09076700359582901[m], 6.449711561203003[deg]
+Mean inference time: 10.764189004898071
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-247.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09898458048701286[m], 6.933236360549927[deg]
+Mean inference time: 10.643285751342773
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-248.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.093710046261549[m], 7.019842624664307[deg]
+Mean inference time: 10.76181697845459
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-249.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09867283701896667[m], 6.301896572113037[deg]
+Mean inference time: 10.808164954185486
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-250.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0972357839345932[m], 6.224693298339844[deg]
+Mean inference time: 10.726841568946838
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-251.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09620517864823341[m], 6.440903186798096[deg]
+Mean inference time: 10.578787565231323
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-252.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10187888890504837[m], 6.437498092651367[deg]
+Mean inference time: 10.716955065727234
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-253.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08895423635840416[m], 6.575784683227539[deg]
+Mean inference time: 10.71212124824524
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-254.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0904977023601532[m], 6.335913896560669[deg]
+Mean inference time: 10.780597805976868
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-255.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10150071233510971[m], 6.381173849105835[deg]
+Mean inference time: 10.80281138420105
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-256.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09312622994184494[m], 6.132236003875732[deg]
+Mean inference time: 10.771638989448547
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-257.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09046962484717369[m], 6.678180694580078[deg]
+Mean inference time: 10.722091794013977
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-258.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09801453351974487[m], 6.2717530727386475[deg]
+Mean inference time: 10.78175151348114
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-259.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09505077823996544[m], 6.3516526222229[deg]
+Mean inference time: 10.827569603919983
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-260.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10436804965138435[m], 6.629454851150513[deg]
+Mean inference time: 10.723734021186829
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-261.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0953228622674942[m], 6.286718130111694[deg]
+Mean inference time: 10.722885966300964
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-262.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10035217925906181[m], 6.610527515411377[deg]
+Mean inference time: 10.74548852443695
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-263.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09711027145385742[m], 6.4336042404174805[deg]
+Mean inference time: 10.734248518943787
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-264.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09695497527718544[m], 7.068207263946533[deg]
+Mean inference time: 10.738016605377197
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-265.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0904809832572937[m], 6.262694835662842[deg]
+Mean inference time: 10.618665099143982
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-266.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09703036025166512[m], 6.259567975997925[deg]
+Mean inference time: 10.905601978302002
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-267.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08910547196865082[m], 6.609341859817505[deg]
+Mean inference time: 10.679606556892395
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-268.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09603924304246902[m], 6.107092380523682[deg]
+Mean inference time: 10.646431803703308
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-269.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09473870694637299[m], 6.318401336669922[deg]
+Mean inference time: 10.71341609954834
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-270.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09957104548811913[m], 6.7156593799591064[deg]
+Mean inference time: 11.471022725105286
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-271.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10443902388215065[m], 6.052612543106079[deg]
+Mean inference time: 10.693103194236755
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-272.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10001923888921738[m], 6.227082967758179[deg]
+Mean inference time: 10.81823992729187
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-273.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09757747501134872[m], 6.1349804401397705[deg]
+Mean inference time: 10.70632255077362
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-274.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0887032188475132[m], 6.080235242843628[deg]
+Mean inference time: 10.976779341697693
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-275.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09523171558976173[m], 6.171504259109497[deg]
+Mean inference time: 10.711448907852173
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-276.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09180768951773643[m], 6.368089914321899[deg]
+Mean inference time: 11.105065941810608
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-277.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09844229742884636[m], 6.691126108169556[deg]
+Mean inference time: 10.836090803146362
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-278.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0920206680893898[m], 6.447951316833496[deg]
+Mean inference time: 10.706459403038025
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-279.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09275270253419876[m], 6.32911229133606[deg]
+Mean inference time: 11.13782525062561
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-280.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09965094178915024[m], 6.08113694190979[deg]
+Mean inference time: 10.757235050201416
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-281.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09352758154273033[m], 6.6310389041900635[deg]
+Mean inference time: 10.899378418922424
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-282.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10240769758820534[m], 6.415381193161011[deg]
+Mean inference time: 10.78333830833435
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-283.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09410256519913673[m], 6.05985164642334[deg]
+Mean inference time: 10.696837902069092
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-284.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08656904101371765[m], 6.645736455917358[deg]
+Mean inference time: 10.622130870819092
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-285.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09550028294324875[m], 6.65345025062561[deg]
+Mean inference time: 10.8477863073349
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-286.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10232503712177277[m], 6.375648021697998[deg]
+Mean inference time: 10.731536030769348
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-287.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09770888835191727[m], 6.008660316467285[deg]
+Mean inference time: 10.829307079315186
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-288.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09722370654344559[m], 6.689895153045654[deg]
+Mean inference time: 11.098373532295227
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-289.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0928233340382576[m], 6.691710948944092[deg]
+Mean inference time: 10.720927953720093
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-290.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08678232878446579[m], 6.726317882537842[deg]
+Mean inference time: 10.730699300765991
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-291.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09720731899142265[m], 6.713093042373657[deg]
+Mean inference time: 11.04206645488739
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-292.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09442402049899101[m], 6.492107629776001[deg]
+Mean inference time: 10.72328770160675
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-293.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0900498740375042[m], 6.618578195571899[deg]
+Mean inference time: 10.794224619865417
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-294.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10044293478131294[m], 6.894665718078613[deg]
+Mean inference time: 10.709151268005371
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-295.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09942259266972542[m], 6.6380016803741455[deg]
+Mean inference time: 10.810855984687805
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-296.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09460967406630516[m], 6.663150072097778[deg]
+Mean inference time: 10.799538493156433
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-297.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0968916043639183[m], 6.540198802947998[deg]
+Mean inference time: 10.767845869064331
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-298.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09752584993839264[m], 6.9417030811309814[deg]
+Mean inference time: 10.863891363143921
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-299.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0899033360183239[m], 6.374542474746704[deg]
+Mean inference time: 10.494895935058594
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-300.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09503824636340141[m], 6.615558624267578[deg]
+Mean inference time: 10.854148626327515
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-301.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09733512252569199[m], 6.191456079483032[deg]
+Mean inference time: 10.907872557640076
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-302.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09286759048700333[m], 6.6886091232299805[deg]
+Mean inference time: 10.730627059936523
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-303.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09541786834597588[m], 6.903521537780762[deg]
+Mean inference time: 10.736745238304138
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-304.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10341208428144455[m], 6.451229095458984[deg]
+Mean inference time: 10.98930311203003
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-305.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09453191980719566[m], 6.809917449951172[deg]
+Mean inference time: 10.753006339073181
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-306.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09259301796555519[m], 6.535887718200684[deg]
+Mean inference time: 10.85514235496521
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-307.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08898616582155228[m], 6.3466551303863525[deg]
+Mean inference time: 10.831590056419373
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-308.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10346715524792671[m], 6.462507724761963[deg]
+Mean inference time: 10.913230657577515
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-309.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09560493752360344[m], 6.493817567825317[deg]
+Mean inference time: 10.714910507202148
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-310.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09526488929986954[m], 6.6926469802856445[deg]
+Mean inference time: 10.96235704421997
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-311.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09780384972691536[m], 6.238012075424194[deg]
+Mean inference time: 10.793123245239258
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-312.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10272910073399544[m], 6.360708236694336[deg]
+Mean inference time: 10.932990670204163
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-313.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10331432893872261[m], 6.53528904914856[deg]
+Mean inference time: 10.617733240127563
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-314.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09293536841869354[m], 6.5296549797058105[deg]
+Mean inference time: 10.605756044387817
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-315.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09966535866260529[m], 6.439809322357178[deg]
+Mean inference time: 10.503928899765015
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-316.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10158027336001396[m], 6.2331154346466064[deg]
+Mean inference time: 10.540866732597351
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-317.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.1031450666487217[m], 6.504842042922974[deg]
+Mean inference time: 10.44457995891571
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-318.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09801556542515755[m], 6.542534828186035[deg]
+Mean inference time: 10.57597303390503
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-319.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10500428453087807[m], 6.455111265182495[deg]
+Mean inference time: 10.552548170089722
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-320.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10346826910972595[m], 6.589999198913574[deg]
+Mean inference time: 10.642617106437683
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-321.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0981302335858345[m], 6.660153388977051[deg]
+Mean inference time: 10.474066853523254
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-322.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10331939905881882[m], 6.451582193374634[deg]
+Mean inference time: 10.514352679252625
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-323.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10105655714869499[m], 6.456081867218018[deg]
+Mean inference time: 10.677718877792358
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-324.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.0977008268237114[m], 6.554194688796997[deg]
+Mean inference time: 10.616780519485474
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-325.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10133230686187744[m], 6.325770378112793[deg]
+Mean inference time: 10.793741583824158
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-326.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09026985242962837[m], 6.462205410003662[deg]
+Mean inference time: 10.537891864776611
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-327.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09992124512791634[m], 6.669673681259155[deg]
+Mean inference time: 10.635724663734436
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-328.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.08936909958720207[m], 6.358674764633179[deg]
+Mean inference time: 10.9836905002594
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-329.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10064492747187614[m], 6.367414236068726[deg]
+Mean inference time: 10.629380941390991
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-330.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.10282797738909721[m], 6.3385090827941895[deg]
+Mean inference time: 10.4795823097229
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-331.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09539210796356201[m], 6.504842042922974[deg]
+Mean inference time: 10.527024149894714
+Performance of /home/transposenet/out/run_26_07_24_11_08_chess_checkpoint-332.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.09466848522424698[m], 6.514646291732788[deg]
+Mean inference time: 10.466383457183838
+

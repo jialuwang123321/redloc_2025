@@ -1,0 +1,9 @@
+Performance of /home/transposenet/out/run_07_10_24_15_46_OldHospital_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv
+Median pose error: 16.347466468811035[m], 7.441242456436157[deg]
+Mean inference time: 13.82142763871413
+Performance of /home/transposenet/out_backup/run_07_10_24_23_07_OldHospital_mamba_skip_1_checkpoint-109.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test_hard01.csv
+Median pose error: 3.8072597980499268[m], 3.8922324180603027[deg]
+Mean inference time: 15.407571425804726
+Performance of /home/transposenet/out_backup/run_07_10_24_23_07_OldHospital_mamba_skip_1_checkpoint-236.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test_hard01.csv
+Median pose error: 3.716925621032715[m], 4.109513521194458[deg]
+Mean inference time: 15.534378670074128

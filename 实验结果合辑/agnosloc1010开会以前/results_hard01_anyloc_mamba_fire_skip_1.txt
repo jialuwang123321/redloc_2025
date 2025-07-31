@@ -1,0 +1,6 @@
+Performance of /home/transposenet/out/run_07_10_24_15_04_fire_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_test_hard01.csv
+Median pose error: 0.42830266058444977[m], 16.25254535675049[deg]
+Mean inference time: 12.532279968261719
+Performance of /home/transposenet/out/run_07_10_24_15_04_fire_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_test_hard01.csv
+Median pose error: 0.4400060474872589[m], 13.914279460906982[deg]
+Mean inference time: 12.740411639213562

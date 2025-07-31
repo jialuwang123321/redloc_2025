@@ -1,0 +1,613 @@
+
+ 加速
+source /etc/network_turbo
+-------------------------------------------
+在/home/transposenet/models/transposenet/transformer_encoder.py里
+        # 计算 torch.cat 之后 src 的大小 (以 MB 为单位)
+        src_size_in_bytes = src.numel() * src.element_size()
+        src_size_in_mb = src_size_in_bytes / (1024 * 1024)
+        print(f'src size after torch.cat: {src_size_in_mb:.2f} MB')
+        pdb.set_trace()
+        '''
+         训练 translation 6.13MB + rotation: 1.54MB； 测试 translation 0.19MB + rotation: 0.77MB
+        # src.shape =
+        #' 训练 torch.Size([197, 8, 256]) 或者 torch.Size([785, 8, 256])；
+        #测试 torch.Size([197, 1, 256]) 或者 torch.Size([785, 1, 256])
+        '''
+
+在/home/transposenet/models/transposenet/backbone_anyloc.py
+        # 计算 rgb 的大小 (以 MB 为单位)
+        
+        rgb_size_in_bytes = rgb.numel() * rgb.element_size()
+        rgb_size_in_mb = rgb_size_in_bytes / (1024 * 1024)
+        print(f'rgb size: {rgb_size_in_mb:.2f} MB')
+        # pdb.set_trace()
+
+        训练：4.59MB， 测试 :0.57MB  #rgb.shape= train [8,3,224,224], test [1,3,224,224]
+
+-----------------------------  原版-------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
+# heads  
+# mamba transposenet 
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads
+
+-------------------------------------------
+# origional transposenet 
+#heads
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv --scene heads --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+[10-09-24 17:46] [INFO] [main.py():345] - Median pose error: 0.292[m], 20.406[deg]
+[10-09-24 17:46] [INFO] [main.py():346] - Var pose error: 0.083[m], 210.183[deg]
+[10-09-24 17:46] [INFO] [main.py():348] - Mean inference time:11.15[ms]
+
+#fire
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_test.csv --scene fire --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_test.csv
+[23-09-24 07:19] [INFO] [main.py():345] - Median pose error: 0.476[m], 30.982[deg]
+[23-09-24 07:19] [INFO] [main.py():346] - Var pose error: 0.077[m], 1149.032[deg]
+[23-09-24 07:19] [INFO] [main.py():348] - Mean inference time:10.92[ms]
+
+#chess
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv --scene chess --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+[10-09-24 17:51] [INFO] [main.py():345] - Median pose error: 0.275[m], 21.077[deg]
+[10-09-24 17:51] [INFO] [main.py():346] - Var pose error: 0.264[m], 820.256[deg]
+[10-09-24 17:51] [INFO] [main.py():348] - Mean inference time:11.30[ms]
+
+#stairs
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test.csv --scene stairs --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test.csv
+[23-09-24 07:25] [INFO] [main.py():345] - Median pose error: 0.517[m], 10.554[deg]
+[23-09-24 07:25] [INFO] [main.py():346] - Var pose error: 0.065[m], 142.969[deg]
+[23-09-24 07:25] [INFO] [main.py():348] - Mean inference time:11.41[ms]
+
+
+#office
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv --scene office --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
+[22-09-24 17:55] [INFO] [main.py():345] - Median pose error: 0.534[m], 31.719[deg]
+[22-09-24 17:55] [INFO] [main.py():346] - Var pose error: 0.111[m], 765.393[deg]
+[22-09-24 17:55] [INFO] [main.py():348] - Mean inference time:11.02[ms]
+
+#pumpkin
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv --scene pumpkin --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+[23-09-24 01:52] [INFO] [main.py():345] - Median pose error: 0.468[m], 30.207[deg]
+[23-09-24 01:52] [INFO] [main.py():346] - Var pose error: 0.090[m], 485.354[deg]
+[23-09-24 01:52] [INFO] [main.py():348] - Mean inference time:11.04[ms]
+
+#redkitchen
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test.csv --scene redkitchen --checkpoint_path /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth
+dark:
+
+Performance of /home/transposenet/out/run_03_12_22_19_31_final_7scenes_ms.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test.csv
+[23-09-24 01:54] [INFO] [main.py():345] - Median pose error: 0.768[m], 28.220[deg]
+[23-09-24 01:54] [INFO] [main.py():346] - Var pose error: 0.194[m], 833.491[deg]
+[23-09-24 01:54] [INFO] [main.py():348] - Mean inference time:10.90[ms]
+
+
+
+
+
+#Oldhospital
+#train
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_train.csv --scene OldHospital
+#test
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv --scene OldHospital --checkpoint_path /home/transposenet/out/run_31_07_24_15_44_OldHospital_skip_1_checkpoint-500.pth
+good
+Performance of /home/transposenet/out/run_31_07_24_15_44_OldHospital_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv
+[23-09-24 15:04] [INFO] [main.py():345] - Median pose error: 1.924[m], 3.070[deg]
+[23-09-24 15:04] [INFO] [main.py():346] - Var pose error: 2.882[m], 9.758[deg]
+[23-09-24 15:04] [INFO] [main.py():348] - Mean inference time:12.87[ms]
+
+dark:
+Performance of /home/transposenet/out/run_31_07_24_15_44_OldHospital_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv
+[23-09-24 15:07] [INFO] [main.py():345] - Median pose error: 5.710[m], 5.151[deg]
+[23-09-24 15:07] [INFO] [main.py():346] - Var pose error: 35.510[m], 164.395[deg]
+[23-09-24 15:07] [INFO] [main.py():348] - Mean inference time:12.45[ms]
+
+# ShopFacade
+# train
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_train.csv --scene ShopFacade
+# test
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv --scene ShopFacade --checkpoint_path /home/transposenet/out/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth
+good
+Performance of /home/transposenet/out/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+[23-09-24 15:09] [INFO] [main.py():345] - Median pose error: 0.856[m], 3.972[deg]
+[23-09-24 15:09] [INFO] [main.py():346] - Var pose error: 0.482[m], 26.442[deg]
+[23-09-24 15:09] [INFO] [main.py():348] - Mean inference time:14.48[ms]
+dark:
+Performance of /home/transposenet/out/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+[23-09-24 15:16] [INFO] [main.py():345] - Median pose error: 4.224[m], 25.555[deg]
+[23-09-24 15:16] [INFO] [main.py():346] - Var pose error: 17.708[m], 988.865[deg]
+[23-09-24 15:16] [INFO] [main.py():348] - Mean inference time:14.03[ms]
+
+
+# StMarysChurch
+# train
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_train.csv --scene StMarysChurch
+# test
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv --scene StMarysChurch --checkpoint_path /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth
+good
+Performance of /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+[23-09-24 15:15] [INFO] [main.py():345] - Median pose error: 1.195[m], 5.174[deg]
+[23-09-24 15:15] [INFO] [main.py():346] - Var pose error: 0.813[m], 186.951[deg]
+[23-09-24 15:15] [INFO] [main.py():348] - Mean inference time:12.05[ms]
+
+dark:
+Performance of /home/transposenet/out/run_31_07_24_16_21_StMarysChurch_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+[23-09-24 15:17] [INFO] [main.py():345] - Median pose error: 3.501[m], 19.528[deg]
+[23-09-24 15:17] [INFO] [main.py():346] - Var pose error: 323.487[m], 2716.492[deg]
+[23-09-24 15:17] [INFO] [main.py():348] - Mean inference time:11.67[ms]
+
+
+
+
+
+
+
+
+# KingsCollege
+# train
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_train.csv --scene KingsCollege
+# test
+python main.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks_origional/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv --scene KingsCollege --checkpoint_path /home/transposenet/out/run_31_07_24_16_21_KingsCollege_skip_1_checkpoint-500.pth
+good
+Performance of /home/transposenet/out/run_31_07_24_16_21_KingsCollege_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+[28-09-24 13:57] [INFO] [main.py():345] - Median pose error: 0.771[m], 2.551[deg]
+[28-09-24 13:57] [INFO] [main.py():346] - Var pose error: 0.855[m], 6.482[deg]
+[28-09-24 13:57] [INFO] [main.py():348] - Mean inference time:12.82[ms]
+
+dark:
+Performance of /home/transposenet/out/run_31_07_24_16_21_KingsCollege_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+[29-09-24 00:44] [INFO] [main.py():345] - Median pose error: 2.965[m], 7.566[deg]
+[29-09-24 00:44] [INFO] [main.py():346] - Var pose error: 322.193[m], 461.625[deg]
+[29-09-24 00:44] [INFO] [main.py():348] - Mean inference time:11.63[ms]
+
+
+---------------------------------anyloc dark ------------------------------------------
+# heads 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads
+
+# origional transposenet
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads
+
+
+conda remove --name anyloc --all
+
+
+# heads 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads
+
+
+# fire 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire
+
+
+
+
+# chess 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess
+
+# office 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office
+
+
+# pumpkin 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin
+
+# stairs 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs
+
+# redkitchen 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen
+
+-----------------------------------------------------------------------------------------------------
+                              cambridge anyloc day and night
+----------------------------------------------------------------------------------------------------
+
+# ShopFacade 
+# mamba transposenet origional
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_train.csv --use_mamba True --scene ShopFacade
+
+
+# mamba transposenet anyloc
+python main_anyloc_cambridge.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_train.csv --use_mamba True --scene ShopFacade
+
+dark
+Performance of /home/transposenet/out/run_28_09_24_14_26_ShopFacade_mamba_skip_1_checkpoint-595.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 2.569589376449585[m], 8.646458625793457[deg]
+Mean inference time: 19.96842402856327
+
+# KingsCollege 
+# mamba transposenet origional
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_train.csv --use_mamba True --scene KingsCollege
+
+
+# mamba transposenet anyloc
+python main_anyloc_cambridge.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_train.csv --use_mamba True --scene KingsCollege
+
+drak
+Performance of /home/transposenet/out/run_28_09_24_15_19_KingsCollege_mamba_skip_1_checkpoint-567.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_KingsCollege_test.csv
+Median pose error: 2.7390522956848145[m], 7.314074516296387[deg]
+Mean inference time: 13.383843808410466s
+
+# OldHospital 
+# mamba transposenet origional
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_train.csv --use_mamba True --scene OldHospital
+
+drak
+Performance of /home/transposenet/out/run_28_09_24_15_20_OldHospital_mamba_skip_1_checkpoint-591.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_test.csv
+Median pose error: 3.6997640132904053[m], 3.5871365070343018[deg]
+Mean inference time: 16.466607104290972
+
+# mamba transposenet anyloc
+python main_anyloc_cambridge.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_OldHospital_train.csv --use_mamba True --scene OldHospital
+
+
+# StMarysChurch 
+# mamba transposenet origional
+python main.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_train.csv --use_mamba True --scene StMarysChurch
+
+drak
+
+# mamba transposenet anyloc
+python main_anyloc_cambridge.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/Cambridge /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_train.csv --use_mamba True --scene StMarysChurch
+
+drak
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-330.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.9517645835876465[m], 11.604325771331787[deg]
+Mean inference time: 13.817970257885051
+
+1006 
+
+dark:
+Performance of /home/transposenet/out/run_06_10_24_20_08_StMarysChurch_mamba_skip_1_checkpoint-357.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 6.292366981506348[m], 10.96170711517334[deg]
+Mean inference time: 13.643207640018103
+
+Performance of /home/transposenet/out/run_06_10_24_20_08_StMarysChurch_mamba_skip_1_checkpoint-310.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 5.993868827819824[m], 11.953565120697021[deg]
+Mean inference time: 13.70246320400598
+
+
+
+---------------------------------anyloc 7scenes day ------------------------------------------
+
+
+
+# stairs 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs
+
+
+# heads 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads
+
+
+# chess 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess
+
+# office 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office
+
+
+# redkitchen 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen
+
+
+# pumpkin 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin
+
+# fire 
+# mamba transposenet 
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire
+
+
+
+
+
+
+----------------------------------------------------------------------
+      agnosloc sparse 训练
+----------------------------------------------------------------------
+
+
+# heads 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --skipvim 20
+
+# fire 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --use_mamba True --scene fire --skipvim 20
+
+
+# chess 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --use_mamba True --scene chess --skipvim 20
+
+
+
+# office 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --use_mamba True --scene office --skipvim 20
+
+
+
+
+# pumpkin 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --use_mamba True --scene pumpkin --skipvim 20
+
+
+# redkitchen 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --use_mamba True --scene redkitchen --skipvim 20
+
+# stairs 
+# mamba transposenet 
+# 1/2
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs --skipvim 2
+
+# 1/5
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs --skipvim 5
+
+# 1/10
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs --skipvim 10
+
+# 1/20
+python main_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --use_mamba True --scene stairs --skipvim 20
+
+
+
+----------------------------------------------------------------------
+      transposenet sparse 训练
+----------------------------------------------------------------------
+
+
+# heads 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads --skipvim 10
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads --skipvim 20
+
+# fire 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --scene fire --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --scene fire --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --scene fire --skipvim 10
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_train.csv --scene fire --skipvim 20
+
+
+# chess 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --scene chess --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --scene chess --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --scene chess --skipvim 10
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --scene chess --skipvim 20
+
+
+
+# office 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --scene office --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --scene office --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --scene office --skipvim 10
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --scene office --skipvim 20
+
+
+
+
+# pumpkin 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --scene pumpkin --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --scene pumpkin --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --scene pumpkin --skipvim 10
+
+dark
+Performance of /home/transposenet/out/run_15_10_24_00_13_pumpkin_skip_10_checkpoint-553.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test_hard01.csv
+Median pose error: 0.48665662109851837[m], 11.882134914398193[deg]
+Mean inference time: 10.530596017837524
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --scene pumpkin --skipvim 20
+
+dark
+Performance of /home/transposenet/out/run_14_10_24_12_27_pumpkin_skip_20_checkpoint-579.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test_hard01.csv
+Median pose error: 0.5546968877315521[m], 15.607572078704834[deg]
+Mean inference time: 10.664471507072449
+
+
+# redkitchen 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --scene redkitchen --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --scene redkitchen --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --scene redkitchen --skipvim 10
+
+dark
+Performance of /home/transposenet/out/run_14_10_24_12_28_redkitchen_skip_10_checkpoint-471.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 0.47285881638526917[m], 12.888270854949951[deg]
+Mean inference time: 10.47767186164856
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_train.csv --scene redkitchen --skipvim 20
+
+Performance of /home/transposenet/out/run_14_10_24_01_09_redkitchen_skip_20_checkpoint-245.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 0.5404134392738342[m], 13.903109073638916[deg]
+Mean inference time: 10.483413934707642
+
+# stairs 
+# transposenet 
+# 1/2
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --scene stairs --skipvim 2
+
+# 1/5
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --scene stairs --skipvim 5
+
+# 1/10
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --scene stairs --skipvim 10
+
+dark
+Performance of /home/transposenet/out/run_14_10_24_12_28_stairs_skip_10_checkpoint-454.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test_hard01.csv
+Median pose error: 0.5369725823402405[m], 11.243768692016602[deg]
+Mean inference time: 10.808160066604614
+
+# 1/20
+python main_hard01.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_train.csv --scene stairs --skipvim 20
+
+Performance of /home/transposenet/out/run_14_10_24_01_09_stairs_skip_20_checkpoint-460.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_stairs_test_hard01.csv
+Median pose error: 0.5153762996196747[m], 11.774778366088867[deg]
+Mean inference time: 10.792436122894287
+
+
+
+
+
+----------------------------------------------------------------------
+      mambaloc_anyloc蒸馏到efficientnet posenet_anyloc的 (不用了)
+----------------------------------------------------------------------
+
+#蒸馏得到学生 
+# img_dion 到 img_dion
+# heads 
+python main_distill_efficientnet_anyloc.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --return_feature True --checkpoint_path /home/transposenet/out/run_01_09_24_02_26_heads_mamba_skip_1_checkpoint-3.pth
+
+# img_rgb 到 img_dion
+# heads
+
+#transposenet rgb --> efficient posenet dino_feature
+python main_distill_efficientnet_anyloc_rgb2feature.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --return_feature True --checkpoint_path /home/transposenet/out/run_01_09_24_13_12_heads_mamba_skip_1_checkpoint-7.pth
+
+#transposenet rgb --> transposenet anyloc dino_feature
+python main_distill_transposenet_2anyloctransposenet_rgb2feature.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --use_mamba True --scene heads --return_feature True --checkpoint_path /home/transposenet/out/run_01_09_24_13_12_heads_mamba_skip_1_checkpoint-7.pth
+
+
+
+screen -S 1
+cd transposenet/
+conda activate dinomamba 
+source /etc/network_turbo

@@ -1,0 +1,12 @@
+Performance of /home/transposenet/out/run_14_10_24_11_37_redkitchen_mamba_skip_20_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 1.0006401538848877[m], 30.744892120361328[deg]
+Mean inference time: 13.315896224975585
+Performance of /home/transposenet/out/run_14_10_24_11_37_redkitchen_mamba_skip_20_checkpoint-2.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 0.8575111925601959[m], 22.96252155303955[deg]
+Mean inference time: 12.507874059677125
+Performance of /home/transposenet/out/run_14_10_24_11_37_redkitchen_mamba_skip_20_checkpoint-3.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 0.8175718486309052[m], 27.706531524658203[deg]
+Mean inference time: 12.318917798995972
+Performance of /home/transposenet/out/run_14_10_24_11_37_redkitchen_mamba_skip_20_checkpoint-4.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_redkitchen_test_hard01.csv
+Median pose error: 0.8453526794910431[m], 23.636863708496094[deg]
+Mean inference time: 12.624082660675048

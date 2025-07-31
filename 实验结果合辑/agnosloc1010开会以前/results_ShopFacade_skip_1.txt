@@ -1,0 +1,18 @@
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 0.8560318350791931[m], 3.972461223602295[deg]
+Mean inference time: 14.140050388076931
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test_hrad01.csv
+Median pose error: 4.362251281738281[m], 24.413490295410156[deg]
+Mean inference time: 14.002647214722865
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test_hrad01.csv
+Median pose error: 4.362251281738281[m], 24.413490295410156[deg]
+Mean inference time: 14.022470677940591
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test_hrad01.csv
+Median pose error: 4.362251281738281[m], 24.413490295410156[deg]
+Mean inference time: 13.894127410592384
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test_hrad01.csv
+Median pose error: 4.362251281738281[m], 24.413490295410156[deg]
+Mean inference time: 14.206400195371758
+Performance of /home/transposenet/out_backup/mambaloc_best_results_final_paper_use/transposenet_best/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test_hrad01.csv
+Median pose error: 4.362251281738281[m], 24.413490295410156[deg]
+Mean inference time: 15.023807877475775

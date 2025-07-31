@@ -1,0 +1,33 @@
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 7.592440605163574[m], 50.48935317993164[deg]
+Mean inference time: 16.22690043403107
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 6.3565216064453125[m], 33.263336181640625[deg]
+Mean inference time: 15.654367150612249
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 5.1597089767456055[m], 36.070343017578125[deg]
+Mean inference time: 15.912229574999763
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 6.940476417541504[m], 47.91080856323242[deg]
+Mean inference time: 15.679438137313694
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-5.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 6.626035690307617[m], 37.31986618041992[deg]
+Mean inference time: 15.239139205043756
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-6.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 4.066930770874023[m], 20.69550132751465[deg]
+Mean inference time: 15.557032187008163
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-7.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 6.243432998657227[m], 25.81043243408203[deg]
+Mean inference time: 15.410481147395755
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-8.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 3.6671814918518066[m], 14.97829818725586[deg]
+Mean inference time: 15.278904183397016
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-9.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 3.7852718830108643[m], 21.277708053588867[deg]
+Mean inference time: 15.717707791374725
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-10.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 3.298234462738037[m], 20.284517288208008[deg]
+Mean inference time: 15.660586866360266
+Performance of /home/transposenet/out/run_27_09_24_18_25_ShopFacade_mamba_skip_1_checkpoint-11.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 1.9990745782852173[m], 11.823366165161133[deg]
+Mean inference time: 15.331069242607043

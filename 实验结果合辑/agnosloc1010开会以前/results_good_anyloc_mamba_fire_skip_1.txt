@@ -1,0 +1,3 @@
+Performance of /home/transposenet/out/run_07_10_24_15_04_fire_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_fire_test.csv
+Median pose error: 0.31092575192451477[m], 14.257038116455078[deg]
+Mean inference time: 12.566182613372803

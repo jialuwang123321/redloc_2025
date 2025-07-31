@@ -1,0 +1,62 @@
+----------------------------------------
+        posenet_origional 来自mapnet
+-----------------------------------------
+
+########################################
+  heads
+########################################
+python main_posenet.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads 
+python main_posenet.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv --checkpoint_path /home/transposenet/out/run_14_07_24_14_49_final.pth
+
+
+
+
+----------------------------------------
+        posenet_origional mamba 
+-----------------------------------------
+
+
+########################################
+  heads
+########################################
+python main_posenet.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_train.csv --scene heads --use_mamba True
+python main_posenet.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv --checkpoint_path /home/transposenet/out/run_14_07_24_14_49_final.pth --use_mamba True
+
+Performance of /home/transposenet/out/run_28_07_24_01_45_heads_mamba_skip_1_checkpoint-94.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_heads_test.csv
+Median pose error: 0.22514329850673676[m], 13.275930881500244[deg]
+Mean inference time: 6.6256422996521
+
+
+########################################
+  chess
+########################################
+python main_posenet.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_train.csv --scene chess --use_mamba True
+python main_posenet.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv --checkpoint_path /home/transposenet/out/run_14_07_24_14_49_final.pth --use_mamba True
+
+Performance of /home/transposenet/out/run_28_07_24_01_46_chess_mamba_skip_1_checkpoint-45.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.2454359009861946[m], 8.220890998840332[deg]
+Mean inference time: 5.802680611610413
+Performance of /home/transposenet/out/run_28_07_24_01_46_chess_mamba_skip_1_checkpoint-34.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_chess_test.csv
+Median pose error: 0.2954644709825516[m], 7.742511987686157[deg]
+Mean inference time: 4.916045784950256 (best)
+
+
+########################################
+  pumpkin
+########################################
+python main_posenet.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_train.csv --scene pumpkin --use_mamba True
+python main_posenet.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv --checkpoint_path /home/transposenet/out/run_14_07_24_14_49_final.pth --use_mamba True
+
+Performance of /home/transposenet/out/run_28_07_24_01_46_pumpkin_mamba_skip_1_checkpoint-30.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_pumpkin_test.csv
+Median pose error: 0.44549550116062164[m], 8.092633724212646[deg]
+Mean inference time: 5.305675029754639
+
+########################################
+  office
+########################################
+python main_posenet.py transposenet train ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_train.csv --scene office --use_mamba True
+python main_posenet.py transposenet test ./models/backbones/efficient-net-b0.pth /home/transposenet/data/7Scenes /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv --checkpoint_path /home/transposenet/out/run_14_07_24_14_49_final.pth --use_mamba True
+
+Performance of /home/transposenet/out/run_28_07_24_01_46_office_mamba_skip_1_checkpoint-29.pth on /home/transposenet/datasets123/7Scenes/abs_7scenes_pose.csv_office_test.csv
+Median pose error: 0.3758217841386795[m], 8.538002967834473[deg]
+Mean inference time: 4.997202754020691

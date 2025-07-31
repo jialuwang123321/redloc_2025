@@ -1,0 +1,6 @@
+Performance of /home/transposenet/out/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 0.8560318350791931[m], 3.972461223602295[deg]
+Mean inference time: 14.483116205456188
+Performance of /home/transposenet/out/run_31_07_24_16_21_ShopFacade_skip_1_checkpoint-500.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_ShopFacade_test.csv
+Median pose error: 4.223960876464844[m], 25.554929733276367[deg]
+Mean inference time: 14.033352287070265

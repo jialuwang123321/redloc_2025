@@ -1,0 +1,3 @@
+Performance of /home/transposenet/out_backup/run_08_10_24_01_50_StMarysChurch_mamba_skip_1_checkpoint-302.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 4.79893946647644[m], 10.638412475585938[deg]
+Mean inference time: 13.668016667635936

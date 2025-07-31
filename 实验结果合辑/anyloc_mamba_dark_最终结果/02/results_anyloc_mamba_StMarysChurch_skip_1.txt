@@ -1,0 +1,1473 @@
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 15.077485084533691[m], 25.941247940063477[deg]
+Mean inference time: 13.614308159306365
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 11.694249153137207[m], 20.768153190612793[deg]
+Mean inference time: 13.624651027175615
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 14.423535823822021[m], 31.178972244262695[deg]
+Mean inference time: 14.156428822931254
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.28061056137085[m], 25.84763813018799[deg]
+Mean inference time: 13.630894445023447
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-5.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 10.293232917785645[m], 33.37484169006348[deg]
+Mean inference time: 14.545280078672013
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-6.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.585716724395752[m], 27.16407012939453[deg]
+Mean inference time: 14.370869240670833
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-7.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.613812923431396[m], 21.586755752563477[deg]
+Mean inference time: 13.705296786326283
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-8.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.706738471984863[m], 26.401944160461426[deg]
+Mean inference time: 13.500500625034547
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-9.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.895962715148926[m], 25.861562728881836[deg]
+Mean inference time: 14.203985682073629
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-10.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.55779218673706[m], 24.903656005859375[deg]
+Mean inference time: 14.844059944152832
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-11.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.879551887512207[m], 30.705435752868652[deg]
+Mean inference time: 14.299829501026082
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-12.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.714376211166382[m], 21.12782859802246[deg]
+Mean inference time: 13.986026565983611
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-13.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.690679550170898[m], 28.81006145477295[deg]
+Mean inference time: 13.562514197151616
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-14.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.666744709014893[m], 22.832395553588867[deg]
+Mean inference time: 13.721256885888442
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-15.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.04976511001587[m], 23.881903648376465[deg]
+Mean inference time: 14.07997653169452
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-16.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.958805084228516[m], 25.62049388885498[deg]
+Mean inference time: 13.558117398675883
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-17.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.265308618545532[m], 27.249085426330566[deg]
+Mean inference time: 13.475298431684386
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-18.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.887495040893555[m], 29.90743064880371[deg]
+Mean inference time: 14.644718170166016
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-19.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.566969394683838[m], 31.06576442718506[deg]
+Mean inference time: 15.739513793081608
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-20.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.363844394683838[m], 31.662787437438965[deg]
+Mean inference time: 14.495092068078383
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-21.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.127425193786621[m], 25.436004638671875[deg]
+Mean inference time: 14.709023709567088
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-22.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.705653429031372[m], 25.11731243133545[deg]
+Mean inference time: 14.303144418968344
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-23.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.480652332305908[m], 19.90332317352295[deg]
+Mean inference time: 14.208310954975632
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-24.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.054381370544434[m], 25.155838012695312[deg]
+Mean inference time: 13.52810004972062
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-25.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.989964723587036[m], 24.249841690063477[deg]
+Mean inference time: 14.291147915822155
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-26.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.2508533000946045[m], 24.189963340759277[deg]
+Mean inference time: 13.358006387386682
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-27.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.181187629699707[m], 28.921649932861328[deg]
+Mean inference time: 14.155855718648658
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-28.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.298133134841919[m], 24.716922760009766[deg]
+Mean inference time: 14.176935069965866
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-29.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.282151699066162[m], 26.62622356414795[deg]
+Mean inference time: 14.23542319603686
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-30.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.733788013458252[m], 28.730341911315918[deg]
+Mean inference time: 13.92014611442134
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-31.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.7494354248046875[m], 20.982131958007812[deg]
+Mean inference time: 15.050904255992961
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-32.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.088618278503418[m], 21.722381591796875[deg]
+Mean inference time: 14.877841607579645
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-33.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.299821853637695[m], 87.66261291503906[deg]
+Mean inference time: 13.28994058213144
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-34.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.56404733657837[m], 30.48471736907959[deg]
+Mean inference time: 14.938345495259986
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-35.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.625979900360107[m], 22.072123527526855[deg]
+Mean inference time: 13.837622246652279
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-36.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.2383410930633545[m], 21.365818977355957[deg]
+Mean inference time: 13.86447492635475
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-37.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.06908655166626[m], 21.214256286621094[deg]
+Mean inference time: 14.522063957070404
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-38.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.627477645874023[m], 22.914000511169434[deg]
+Mean inference time: 14.501185687083119
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-39.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.321855068206787[m], 22.117250442504883[deg]
+Mean inference time: 14.463281181623351
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-40.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.207479476928711[m], 24.391267776489258[deg]
+Mean inference time: 15.421616806174224
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-41.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.402588129043579[m], 20.03465461730957[deg]
+Mean inference time: 15.290986366991726
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-42.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.187706708908081[m], 21.058609008789062[deg]
+Mean inference time: 13.863784862014482
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-43.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.329434156417847[m], 20.07352638244629[deg]
+Mean inference time: 14.848439198619914
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-44.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.375166177749634[m], 19.05687713623047[deg]
+Mean inference time: 15.127772655127183
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-45.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.970315217971802[m], 20.461362838745117[deg]
+Mean inference time: 13.774551535552403
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-46.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.2016019821167[m], 20.965149879455566[deg]
+Mean inference time: 13.942642031975513
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-47.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.625367879867554[m], 22.9391508102417[deg]
+Mean inference time: 14.15882650411354
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-48.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.217924118041992[m], 18.64463996887207[deg]
+Mean inference time: 14.009214797109928
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-49.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.889139413833618[m], 16.946572303771973[deg]
+Mean inference time: 15.443865758068156
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-50.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.36962890625[m], 20.13911247253418[deg]
+Mean inference time: 13.908729913099757
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-51.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.589466571807861[m], 24.9353666305542[deg]
+Mean inference time: 13.855877912269449
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-52.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.118385791778564[m], 41.46399688720703[deg]
+Mean inference time: 13.485192802717101
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-53.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 10.804385662078857[m], 24.0967435836792[deg]
+Mean inference time: 13.841807167485076
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-54.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.736015319824219[m], 25.82130241394043[deg]
+Mean inference time: 13.98780345916748
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-55.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.84333872795105[m], 24.453726768493652[deg]
+Mean inference time: 14.76440519656775
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-56.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.369639873504639[m], 22.386638641357422[deg]
+Mean inference time: 13.73250259543365
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-57.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.33674669265747[m], 20.22541332244873[deg]
+Mean inference time: 13.626744162361577
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-58.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 10.284426212310791[m], 22.79833984375[deg]
+Mean inference time: 13.94227720656485
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-59.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.757071495056152[m], 23.86626434326172[deg]
+Mean inference time: 13.764060218379182
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-60.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.852111577987671[m], 20.416234016418457[deg]
+Mean inference time: 13.538165362376088
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-61.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.821013689041138[m], 20.248268127441406[deg]
+Mean inference time: 13.867639595607542
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-62.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.689677953720093[m], 19.87642765045166[deg]
+Mean inference time: 15.860936776647028
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-63.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.793456077575684[m], 19.48611545562744[deg]
+Mean inference time: 14.791252028267339
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-64.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.46402359008789[m], 22.703601837158203[deg]
+Mean inference time: 13.86979211051509
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-65.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.800950050354004[m], 21.98219871520996[deg]
+Mean inference time: 13.691748313184055
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-66.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.639716386795044[m], 19.294050216674805[deg]
+Mean inference time: 13.402862368889576
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-67.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.754703521728516[m], 21.685599327087402[deg]
+Mean inference time: 14.156218294827443
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-68.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.179510593414307[m], 20.427732467651367[deg]
+Mean inference time: 14.658434885852742
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-69.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.6361072063446045[m], 22.056283950805664[deg]
+Mean inference time: 13.473306961779324
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-70.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.755341053009033[m], 21.267295837402344[deg]
+Mean inference time: 15.001862903810897
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-71.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.971966743469238[m], 19.527546882629395[deg]
+Mean inference time: 14.292057055347371
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-72.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.222023010253906[m], 23.77850341796875[deg]
+Mean inference time: 14.466174143665242
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-73.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.246484994888306[m], 23.35013484954834[deg]
+Mean inference time: 13.786563333475366
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-74.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.495418548583984[m], 21.905341148376465[deg]
+Mean inference time: 14.538332201399893
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-75.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.663261413574219[m], 20.33176326751709[deg]
+Mean inference time: 14.075159576703918
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-76.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.82506537437439[m], 22.8651065826416[deg]
+Mean inference time: 13.690558019674048
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-77.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.046955585479736[m], 20.43164348602295[deg]
+Mean inference time: 13.910447876408416
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-78.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.325562477111816[m], 20.78988552093506[deg]
+Mean inference time: 13.97029993669042
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-79.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.513891220092773[m], 22.06752300262451[deg]
+Mean inference time: 14.629241655457694
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-80.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.906743049621582[m], 20.30392074584961[deg]
+Mean inference time: 13.936602844382232
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-81.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.403554439544678[m], 21.106696128845215[deg]
+Mean inference time: 13.802243628591862
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-82.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.048683643341064[m], 20.088709831237793[deg]
+Mean inference time: 14.800237709621214
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-83.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.052810192108154[m], 20.54705810546875[deg]
+Mean inference time: 13.43613750529739
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-84.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.32323408126831[m], 17.46589946746826[deg]
+Mean inference time: 14.055418518354308
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-85.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.070523738861084[m], 18.644367218017578[deg]
+Mean inference time: 13.822297330172557
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-86.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.075273036956787[m], 17.770501136779785[deg]
+Mean inference time: 13.451226702276266
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-87.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.52845311164856[m], 21.478182792663574[deg]
+Mean inference time: 13.49888432700679
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-88.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.9784462451934814[m], 20.426966667175293[deg]
+Mean inference time: 14.602624245409695
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-89.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.74385142326355[m], 22.50327777862549[deg]
+Mean inference time: 13.61459786037229
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-90.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.761624336242676[m], 22.549036026000977[deg]
+Mean inference time: 13.479223791158423
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-91.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.094614505767822[m], 23.205659866333008[deg]
+Mean inference time: 13.848621440383623
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-92.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.998035430908203[m], 20.61014175415039[deg]
+Mean inference time: 13.588120352547124
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-93.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.228724479675293[m], 22.15699577331543[deg]
+Mean inference time: 13.523364516924012
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-94.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.7769715785980225[m], 20.31823444366455[deg]
+Mean inference time: 13.427785657486826
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-95.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.23970651626587[m], 18.440963745117188[deg]
+Mean inference time: 13.573635299250764
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-96.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.367516040802002[m], 21.87759304046631[deg]
+Mean inference time: 13.506336931912404
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-97.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.472026824951172[m], 18.029648780822754[deg]
+Mean inference time: 13.35162801562615
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-98.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.44298791885376[m], 18.27798557281494[deg]
+Mean inference time: 13.459502076202968
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-99.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.134186506271362[m], 18.250550270080566[deg]
+Mean inference time: 13.585384836736715
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-100.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.072324275970459[m], 16.75295639038086[deg]
+Mean inference time: 13.547438045717636
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-101.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.390814304351807[m], 19.07817554473877[deg]
+Mean inference time: 13.579639398826743
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-102.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.103880405426025[m], 19.76269245147705[deg]
+Mean inference time: 13.41070589029564
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-103.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.386019468307495[m], 17.51029109954834[deg]
+Mean inference time: 14.046958707413584
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-104.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.630216360092163[m], 17.8065242767334[deg]
+Mean inference time: 13.273289968382638
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-105.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.972957611083984[m], 20.198348999023438[deg]
+Mean inference time: 13.47291019727599
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-106.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.430114984512329[m], 20.91239833831787[deg]
+Mean inference time: 13.19196584089747
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-107.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.6798460483551025[m], 17.89795207977295[deg]
+Mean inference time: 13.356836786809957
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-108.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.593119144439697[m], 21.768943786621094[deg]
+Mean inference time: 13.355076987788362
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-109.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.03735089302063[m], 20.182594299316406[deg]
+Mean inference time: 13.390549173894918
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-110.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.9175450801849365[m], 19.442126274108887[deg]
+Mean inference time: 13.733981240470454
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-111.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.550330400466919[m], 17.70801544189453[deg]
+Mean inference time: 13.446902329067015
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-112.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.950891733169556[m], 19.33827304840088[deg]
+Mean inference time: 13.92160991452775
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-113.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.022246837615967[m], 17.163894653320312[deg]
+Mean inference time: 13.713182143445286
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-114.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.172701835632324[m], 20.237781524658203[deg]
+Mean inference time: 13.495002152784815
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-115.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.352219343185425[m], 19.552593231201172[deg]
+Mean inference time: 13.296446710262659
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-116.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.174488544464111[m], 17.217876434326172[deg]
+Mean inference time: 13.23914257985241
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-117.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.710111141204834[m], 18.830214500427246[deg]
+Mean inference time: 13.399210965858316
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-118.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.96090030670166[m], 18.314692497253418[deg]
+Mean inference time: 13.351381049965912
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-119.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.1749796867370605[m], 18.56363010406494[deg]
+Mean inference time: 13.350516895078263
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-120.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.31035852432251[m], 20.88313102722168[deg]
+Mean inference time: 13.420498596047455
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-121.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.180534839630127[m], 19.117941856384277[deg]
+Mean inference time: 13.858884685444382
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-122.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.088314533233643[m], 18.509427070617676[deg]
+Mean inference time: 13.61857495217953
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-123.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.328866243362427[m], 17.264094352722168[deg]
+Mean inference time: 13.304197113468962
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-124.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.009109020233154[m], 18.6582670211792[deg]
+Mean inference time: 13.508597409950113
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-125.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.41451621055603[m], 18.117772102355957[deg]
+Mean inference time: 13.416220557014897
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-126.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.906318187713623[m], 17.404342651367188[deg]
+Mean inference time: 13.855714618035083
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-127.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.515374660491943[m], 18.61450958251953[deg]
+Mean inference time: 13.688305638871103
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-128.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.25531005859375[m], 17.11870002746582[deg]
+Mean inference time: 13.485007915856704
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-129.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.773486137390137[m], 18.158530235290527[deg]
+Mean inference time: 13.332568024689296
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-130.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.03085994720459[m], 18.08831214904785[deg]
+Mean inference time: 13.327653453035175
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-131.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.260655164718628[m], 18.405566215515137[deg]
+Mean inference time: 13.28148122103709
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-132.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.760382175445557[m], 17.61212730407715[deg]
+Mean inference time: 13.829444939235472
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-133.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.177741765975952[m], 18.49177074432373[deg]
+Mean inference time: 13.72998705450094
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-134.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.47654128074646[m], 16.813063621520996[deg]
+Mean inference time: 13.398287431249079
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-135.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.908132076263428[m], 16.008261680603027[deg]
+Mean inference time: 13.553896040286658
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-136.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.29175591468811[m], 15.382173538208008[deg]
+Mean inference time: 13.880341907717147
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-137.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.711366891860962[m], 17.73028564453125[deg]
+Mean inference time: 13.697949445472574
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-138.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.022906064987183[m], 20.910014152526855[deg]
+Mean inference time: 13.531974126707834
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-139.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.866302728652954[m], 17.062617301940918[deg]
+Mean inference time: 13.24731448911271
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-140.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.616237640380859[m], 16.34323215484619[deg]
+Mean inference time: 14.145551537567714
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-141.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.067408084869385[m], 15.727268695831299[deg]
+Mean inference time: 13.100071223276966
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-142.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.005207300186157[m], 17.060503005981445[deg]
+Mean inference time: 13.58729713367966
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-143.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.339639663696289[m], 16.999882698059082[deg]
+Mean inference time: 13.386400240772176
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-144.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.099769592285156[m], 14.395624160766602[deg]
+Mean inference time: 13.497308065306466
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-145.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.270176649093628[m], 16.123494148254395[deg]
+Mean inference time: 14.247924426816544
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-146.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.991413593292236[m], 16.032248497009277[deg]
+Mean inference time: 13.484191444684875
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-147.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.797791481018066[m], 15.810927391052246[deg]
+Mean inference time: 13.229130798915648
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-148.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.985224485397339[m], 16.126846313476562[deg]
+Mean inference time: 13.454689169829747
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-149.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.610435962677002[m], 17.669719696044922[deg]
+Mean inference time: 13.327817197115916
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-150.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.221910238265991[m], 17.45029354095459[deg]
+Mean inference time: 13.980792153556392
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-151.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.372421741485596[m], 16.46644687652588[deg]
+Mean inference time: 13.444559978988936
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-152.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.292755126953125[m], 14.876722812652588[deg]
+Mean inference time: 13.295053086190853
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-153.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.365395545959473[m], 17.692618370056152[deg]
+Mean inference time: 13.501458347968335
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-154.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.86074686050415[m], 16.280656814575195[deg]
+Mean inference time: 13.33750418896945
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-155.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.761702299118042[m], 16.530388832092285[deg]
+Mean inference time: 13.527693838443396
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-156.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.94654655456543[m], 16.18331527709961[deg]
+Mean inference time: 13.676986154520288
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-157.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.620940685272217[m], 14.82334280014038[deg]
+Mean inference time: 13.428198616459685
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-158.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.054543495178223[m], 15.7947096824646[deg]
+Mean inference time: 13.513821925757066
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-159.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.003461599349976[m], 15.548980236053467[deg]
+Mean inference time: 13.482580094967249
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-160.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.755931377410889[m], 15.576147556304932[deg]
+Mean inference time: 13.233488010910323
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-161.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.903012990951538[m], 15.42019510269165[deg]
+Mean inference time: 13.308136868027022
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-162.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.474096775054932[m], 14.006975173950195[deg]
+Mean inference time: 13.213766745801243
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-163.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.018359422683716[m], 14.843010902404785[deg]
+Mean inference time: 13.890843571357006
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-164.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.799858570098877[m], 13.249207019805908[deg]
+Mean inference time: 13.410880880535773
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-165.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.083397388458252[m], 14.351935386657715[deg]
+Mean inference time: 13.325851368454268
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-166.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.538499116897583[m], 14.145519256591797[deg]
+Mean inference time: 13.205345621648824
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-167.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.591189861297607[m], 16.221485137939453[deg]
+Mean inference time: 13.604924813756403
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-168.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.893844366073608[m], 14.024892330169678[deg]
+Mean inference time: 13.485543233043742
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-169.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.522610902786255[m], 13.991751194000244[deg]
+Mean inference time: 13.377779834675339
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-170.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.310946464538574[m], 15.101070404052734[deg]
+Mean inference time: 13.330172142892513
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-171.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.589627027511597[m], 14.183170795440674[deg]
+Mean inference time: 13.444269828076633
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-172.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.637856483459473[m], 15.555523872375488[deg]
+Mean inference time: 13.245117889260346
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-173.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.471815347671509[m], 13.150026321411133[deg]
+Mean inference time: 13.468689738579517
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-174.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.086395263671875[m], 14.43424367904663[deg]
+Mean inference time: 13.338161414524293
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-175.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.965456008911133[m], 14.563710689544678[deg]
+Mean inference time: 13.549518585205078
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-176.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.673469543457031[m], 13.946438312530518[deg]
+Mean inference time: 13.507400818590847
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-177.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.848690032958984[m], 14.948017120361328[deg]
+Mean inference time: 13.45296985698196
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-178.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.39500617980957[m], 15.201150894165039[deg]
+Mean inference time: 13.429509468798367
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-179.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.1293323040008545[m], 15.500308513641357[deg]
+Mean inference time: 13.507999114270481
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-180.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.758683681488037[m], 14.648619174957275[deg]
+Mean inference time: 13.431930541992188
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-181.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.724124908447266[m], 14.771528720855713[deg]
+Mean inference time: 13.454626641183529
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-182.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.433976888656616[m], 14.394742965698242[deg]
+Mean inference time: 13.598256291083569
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-183.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.381068706512451[m], 14.75992202758789[deg]
+Mean inference time: 13.576898035013452
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-184.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.901257276535034[m], 14.84145975112915[deg]
+Mean inference time: 13.35465503188799
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-185.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.943026304244995[m], 14.710713386535645[deg]
+Mean inference time: 13.300303693087596
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-186.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.961271524429321[m], 15.508336067199707[deg]
+Mean inference time: 13.416485966376538
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-187.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.899698495864868[m], 14.46328067779541[deg]
+Mean inference time: 13.258759930448711
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-188.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.199360370635986[m], 14.020387649536133[deg]
+Mean inference time: 13.668193457261571
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-189.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.5366339683532715[m], 14.967793941497803[deg]
+Mean inference time: 13.429690307041383
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-190.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.589787483215332[m], 12.834439754486084[deg]
+Mean inference time: 13.2965771657116
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-191.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.479761600494385[m], 12.78844165802002[deg]
+Mean inference time: 13.170969261313385
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-192.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.596614599227905[m], 13.784261226654053[deg]
+Mean inference time: 13.387883834119114
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-193.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.077669858932495[m], 13.832112789154053[deg]
+Mean inference time: 13.451022022175339
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-194.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.7589943408966064[m], 12.899027824401855[deg]
+Mean inference time: 13.844585418701172
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-195.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.003802061080933[m], 13.714627742767334[deg]
+Mean inference time: 13.842611042958385
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-196.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.767298221588135[m], 13.965592384338379[deg]
+Mean inference time: 13.779790896289754
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-197.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.469199180603027[m], 13.047431945800781[deg]
+Mean inference time: 13.366447304779628
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-198.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.06003475189209[m], 13.107621669769287[deg]
+Mean inference time: 13.394556405409327
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-199.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.325793743133545[m], 12.562349319458008[deg]
+Mean inference time: 13.069020577196804
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-200.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.921616315841675[m], 13.01131820678711[deg]
+Mean inference time: 13.291756611949992
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-201.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.469853639602661[m], 13.322950839996338[deg]
+Mean inference time: 13.197432823900906
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-202.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.624392032623291[m], 12.305691242218018[deg]
+Mean inference time: 13.698036715669453
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-203.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.516324520111084[m], 14.32974910736084[deg]
+Mean inference time: 13.184568567096063
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-204.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.982805490493774[m], 12.6865816116333[deg]
+Mean inference time: 13.304264590425312
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-205.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.142592906951904[m], 14.713253021240234[deg]
+Mean inference time: 13.860783037149682
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-206.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.1312572956085205[m], 14.061619281768799[deg]
+Mean inference time: 13.958244953515395
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-207.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.096506118774414[m], 15.418703556060791[deg]
+Mean inference time: 13.761144764018509
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-208.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.338284015655518[m], 13.295588493347168[deg]
+Mean inference time: 13.325970577743819
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-209.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.218935489654541[m], 14.90746259689331[deg]
+Mean inference time: 13.895001051560888
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-210.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.140172481536865[m], 15.047338008880615[deg]
+Mean inference time: 12.818255064622411
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-211.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.948804616928101[m], 14.52494478225708[deg]
+Mean inference time: 12.957886479935556
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-212.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.977696418762207[m], 14.537831783294678[deg]
+Mean inference time: 13.770789920159107
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-213.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.415687799453735[m], 14.811877250671387[deg]
+Mean inference time: 12.97397163679015
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-214.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.114771842956543[m], 13.875105857849121[deg]
+Mean inference time: 13.922956754576486
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-215.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.00966477394104[m], 13.690160751342773[deg]
+Mean inference time: 12.983509279646963
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-216.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.2455010414123535[m], 17.082401275634766[deg]
+Mean inference time: 13.687941713153192
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-217.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.1632819175720215[m], 19.168938636779785[deg]
+Mean inference time: 13.145261890483352
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-218.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.442420959472656[m], 16.716193199157715[deg]
+Mean inference time: 13.691570623865667
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-219.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.5275819301605225[m], 15.903626441955566[deg]
+Mean inference time: 14.078167249571603
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-220.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.8755927085876465[m], 17.035588264465332[deg]
+Mean inference time: 13.235226217305884
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-221.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.418606519699097[m], 15.320143699645996[deg]
+Mean inference time: 13.703688585533286
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-222.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.241097450256348[m], 15.162775993347168[deg]
+Mean inference time: 13.33905076080898
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-223.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.836277008056641[m], 15.100107669830322[deg]
+Mean inference time: 13.914097929900548
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-224.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.57991886138916[m], 15.8522310256958[deg]
+Mean inference time: 13.155732964569667
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-225.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.601872682571411[m], 15.135291576385498[deg]
+Mean inference time: 13.235267603172446
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-226.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.894747257232666[m], 14.783919334411621[deg]
+Mean inference time: 12.964232012910664
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-227.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.483240604400635[m], 15.12545394897461[deg]
+Mean inference time: 13.839949751799962
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-228.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.205106258392334[m], 14.963978290557861[deg]
+Mean inference time: 12.850209901917655
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-229.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.75182843208313[m], 14.89443826675415[deg]
+Mean inference time: 12.740351119131413
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-230.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.7460339069366455[m], 15.671528816223145[deg]
+Mean inference time: 12.830315445953945
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-231.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.7143964767456055[m], 13.35707950592041[deg]
+Mean inference time: 12.831724814648899
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-232.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.945751667022705[m], 14.444877624511719[deg]
+Mean inference time: 13.060249022717747
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-233.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.383994817733765[m], 14.267179012298584[deg]
+Mean inference time: 13.171384919364497
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-234.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.750596284866333[m], 14.195023536682129[deg]
+Mean inference time: 13.311295689276928
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-235.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.563438653945923[m], 13.652490139007568[deg]
+Mean inference time: 12.955207644768482
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-236.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.973873853683472[m], 14.154213428497314[deg]
+Mean inference time: 12.941897590205354
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-237.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.792341947555542[m], 13.772332668304443[deg]
+Mean inference time: 12.931821931083247
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-238.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.491674184799194[m], 14.225518226623535[deg]
+Mean inference time: 12.886855737218317
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-239.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.064336538314819[m], 14.26794719696045[deg]
+Mean inference time: 12.793665562035903
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-240.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.474652528762817[m], 13.396880626678467[deg]
+Mean inference time: 13.870706198350438
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-241.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.579694747924805[m], 13.446949005126953[deg]
+Mean inference time: 12.79861162293632
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-242.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.214743137359619[m], 13.54820728302002[deg]
+Mean inference time: 12.916150632894263
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-243.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.393754482269287[m], 13.429755687713623[deg]
+Mean inference time: 13.735506219683954
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-244.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.146950006484985[m], 13.394304275512695[deg]
+Mean inference time: 13.07968553507103
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-245.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.1649489402771[m], 12.798030376434326[deg]
+Mean inference time: 13.902033949798009
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-246.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.336599826812744[m], 12.87499713897705[deg]
+Mean inference time: 13.21491205467368
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-247.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.76249885559082[m], 16.31473159790039[deg]
+Mean inference time: 14.102740107842212
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-248.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.207313537597656[m], 15.076260566711426[deg]
+Mean inference time: 13.371044734738907
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-249.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.727043628692627[m], 14.458322525024414[deg]
+Mean inference time: 13.224098817357477
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-250.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.951153039932251[m], 14.041915893554688[deg]
+Mean inference time: 13.13318261560404
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-251.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.805264234542847[m], 13.787837028503418[deg]
+Mean inference time: 14.238570321281001
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-252.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.781363248825073[m], 13.613391399383545[deg]
+Mean inference time: 13.05189402598255
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-253.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.163514852523804[m], 14.211094379425049[deg]
+Mean inference time: 12.858641822383088
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-254.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.966001749038696[m], 15.403449535369873[deg]
+Mean inference time: 13.223643572825306
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-255.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.107134819030762[m], 15.175394535064697[deg]
+Mean inference time: 12.928852495157495
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-256.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.290424346923828[m], 13.926897525787354[deg]
+Mean inference time: 12.856031363865114
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-257.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.546891450881958[m], 12.577212810516357[deg]
+Mean inference time: 12.914440316973993
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-258.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.890154123306274[m], 13.157106399536133[deg]
+Mean inference time: 13.273025008867371
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-259.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.2697203159332275[m], 12.87685489654541[deg]
+Mean inference time: 13.200247062827057
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-260.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.30739688873291[m], 13.368830680847168[deg]
+Mean inference time: 13.295574907986623
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-261.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.800952911376953[m], 13.158553123474121[deg]
+Mean inference time: 12.906393914852503
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-262.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.5671656131744385[m], 13.589375495910645[deg]
+Mean inference time: 12.86303052362406
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-263.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.923143625259399[m], 13.376094818115234[deg]
+Mean inference time: 12.846248104887188
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-264.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.705451965332031[m], 13.802037239074707[deg]
+Mean inference time: 13.89737309149976
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-265.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.547020196914673[m], 13.066853523254395[deg]
+Mean inference time: 13.671816070124788
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-266.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.229781627655029[m], 13.829572200775146[deg]
+Mean inference time: 12.732151319395822
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-267.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.7441277503967285[m], 14.541023254394531[deg]
+Mean inference time: 13.036170995460367
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-268.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.457712173461914[m], 12.493877410888672[deg]
+Mean inference time: 13.2754348359018
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-269.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.627577781677246[m], 12.965996742248535[deg]
+Mean inference time: 12.860474946363917
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-270.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.829359769821167[m], 13.28800630569458[deg]
+Mean inference time: 13.018572555398041
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-271.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.270861625671387[m], 13.526905536651611[deg]
+Mean inference time: 13.158404602194732
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-272.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.265752077102661[m], 12.698428630828857[deg]
+Mean inference time: 12.859373272589917
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-273.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.0654942989349365[m], 13.395352363586426[deg]
+Mean inference time: 12.902657041009867
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-274.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.192242622375488[m], 13.60169267654419[deg]
+Mean inference time: 14.428682147331958
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-275.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.726014614105225[m], 13.114247798919678[deg]
+Mean inference time: 13.744630903567908
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-276.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.772088527679443[m], 13.594519138336182[deg]
+Mean inference time: 13.142682021518922
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-277.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.3891143798828125[m], 12.553265571594238[deg]
+Mean inference time: 14.047676212382767
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-278.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.464372158050537[m], 12.592593669891357[deg]
+Mean inference time: 13.208623202341908
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-279.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.852283954620361[m], 13.88531494140625[deg]
+Mean inference time: 13.209420779965958
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-280.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.504168272018433[m], 14.407303810119629[deg]
+Mean inference time: 13.009110936578715
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-281.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.998528003692627[m], 12.86719274520874[deg]
+Mean inference time: 13.56957273663215
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-282.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.996609926223755[m], 13.215798377990723[deg]
+Mean inference time: 13.343318453374899
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-283.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.4367241859436035[m], 14.185398578643799[deg]
+Mean inference time: 13.156342056562316
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-284.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.9200193881988525[m], 12.881103515625[deg]
+Mean inference time: 14.249631593812186
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-285.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.655000925064087[m], 13.541593074798584[deg]
+Mean inference time: 13.351285232687896
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-286.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.1836912631988525[m], 13.200889587402344[deg]
+Mean inference time: 12.754502836263404
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-287.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.742311954498291[m], 12.641402244567871[deg]
+Mean inference time: 14.19703150695225
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-288.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.315500974655151[m], 12.981645107269287[deg]
+Mean inference time: 13.168712831893057
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-289.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.185871601104736[m], 12.296796798706055[deg]
+Mean inference time: 13.700003893870228
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-290.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.761235475540161[m], 12.946446895599365[deg]
+Mean inference time: 13.801515327309662
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-291.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.477206468582153[m], 13.411407947540283[deg]
+Mean inference time: 13.312692462273365
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-292.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.260043621063232[m], 13.336241245269775[deg]
+Mean inference time: 13.220482052497143
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-293.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.970618009567261[m], 12.798372268676758[deg]
+Mean inference time: 13.114343949084011
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-294.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.046912670135498[m], 14.333613395690918[deg]
+Mean inference time: 13.927423279240447
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-295.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.311964988708496[m], 13.618865966796875[deg]
+Mean inference time: 13.846043820651072
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-296.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.067108392715454[m], 12.271134853363037[deg]
+Mean inference time: 13.184994571613815
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-297.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.3342413902282715[m], 13.05003833770752[deg]
+Mean inference time: 13.181584736086288
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-298.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.782695055007935[m], 13.20655107498169[deg]
+Mean inference time: 14.013684470698518
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-299.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.016103267669678[m], 13.181171894073486[deg]
+Mean inference time: 13.131354439933345
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-300.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.135007381439209[m], 12.802727222442627[deg]
+Mean inference time: 13.10427818658217
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-301.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.571471691131592[m], 13.84299898147583[deg]
+Mean inference time: 13.976530308993357
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-302.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.851329565048218[m], 13.499605178833008[deg]
+Mean inference time: 13.39075025522484
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-303.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.534001111984253[m], 12.365955352783203[deg]
+Mean inference time: 13.246251951973393
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-304.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.788595914840698[m], 13.391825675964355[deg]
+Mean inference time: 12.843452759508816
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-305.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.633424997329712[m], 13.276535511016846[deg]
+Mean inference time: 12.755640947593832
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-306.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.550745725631714[m], 12.15143346786499[deg]
+Mean inference time: 13.457701791007564
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-307.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.3229310512542725[m], 12.456785202026367[deg]
+Mean inference time: 13.09409591386903
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-308.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.885296821594238[m], 12.563457012176514[deg]
+Mean inference time: 13.69849555897263
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-309.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.2389795780181885[m], 13.921830654144287[deg]
+Mean inference time: 13.580410885361006
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-310.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.6569623947143555[m], 13.852517127990723[deg]
+Mean inference time: 13.045564687476968
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-311.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.06480860710144[m], 13.246829509735107[deg]
+Mean inference time: 13.182547857176584
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-312.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.62818455696106[m], 13.166556358337402[deg]
+Mean inference time: 13.256607415541163
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-313.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.321887016296387[m], 13.266639709472656[deg]
+Mean inference time: 13.263518405410478
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-314.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.266092538833618[m], 12.098470687866211[deg]
+Mean inference time: 13.087178176304079
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-315.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.6188013553619385[m], 13.021026611328125[deg]
+Mean inference time: 13.427396990218252
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-316.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.213650465011597[m], 14.762774467468262[deg]
+Mean inference time: 13.624045533953973
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-317.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.924408435821533[m], 14.42559289932251[deg]
+Mean inference time: 13.137374733978847
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-318.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.420060873031616[m], 13.10130786895752[deg]
+Mean inference time: 13.189614493891877
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-319.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.7007057666778564[m], 13.434319972991943[deg]
+Mean inference time: 14.234409692152491
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-320.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.19994330406189[m], 12.967190265655518[deg]
+Mean inference time: 13.131246026956811
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-321.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.906129598617554[m], 14.185519695281982[deg]
+Mean inference time: 13.706222570167398
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-322.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.928825616836548[m], 12.203743934631348[deg]
+Mean inference time: 13.244346852572459
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-323.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.251630783081055[m], 13.29602575302124[deg]
+Mean inference time: 13.811481223916108
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-324.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.120274782180786[m], 12.470879554748535[deg]
+Mean inference time: 13.638315560682765
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-325.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.689360618591309[m], 12.83276891708374[deg]
+Mean inference time: 13.37240552002529
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-326.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.054564476013184[m], 12.358543872833252[deg]
+Mean inference time: 13.094847157316387
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-327.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.955662965774536[m], 13.044727802276611[deg]
+Mean inference time: 13.13942513375912
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-328.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.8742311000823975[m], 12.242748260498047[deg]
+Mean inference time: 13.110026323570395
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-329.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.860023021697998[m], 12.833815097808838[deg]
+Mean inference time: 12.831357290159982
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-330.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.9517645835876465[m], 11.604325771331787[deg]
+Mean inference time: 13.817970257885051
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-331.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.52820897102356[m], 13.352349758148193[deg]
+Mean inference time: 12.815925760089227
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-332.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.2510902881622314[m], 14.849689960479736[deg]
+Mean inference time: 13.137614502097076
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-333.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.565553665161133[m], 12.366560459136963[deg]
+Mean inference time: 13.222518057193396
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-334.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.1560118198394775[m], 13.395794868469238[deg]
+Mean inference time: 13.922456975253123
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-335.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.030745506286621[m], 13.872352123260498[deg]
+Mean inference time: 13.219749252751189
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-336.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.640326261520386[m], 14.446873188018799[deg]
+Mean inference time: 13.35770678970049
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-337.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.1223108768463135[m], 13.360249519348145[deg]
+Mean inference time: 13.207333942629257
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-338.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.873749732971191[m], 14.30827808380127[deg]
+Mean inference time: 13.9011468527452
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-339.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.278663158416748[m], 12.340872287750244[deg]
+Mean inference time: 12.962146075266713
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-340.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.5029942989349365[m], 14.238476753234863[deg]
+Mean inference time: 12.903780757256275
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-341.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.327176332473755[m], 13.937709331512451[deg]
+Mean inference time: 13.816106994197053
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-342.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.711296319961548[m], 15.024866104125977[deg]
+Mean inference time: 12.949379435125387
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-343.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.709813117980957[m], 13.20070505142212[deg]
+Mean inference time: 12.877740050261876
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-344.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.02917218208313[m], 13.443586826324463[deg]
+Mean inference time: 13.931184444787368
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-345.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.3923234939575195[m], 12.04566240310669[deg]
+Mean inference time: 13.815132177100992
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-346.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.542515993118286[m], 12.147977352142334[deg]
+Mean inference time: 13.460944283683345
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-347.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.666511535644531[m], 13.420283317565918[deg]
+Mean inference time: 13.667636097602124
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-348.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.205672740936279[m], 13.350895404815674[deg]
+Mean inference time: 13.17970797700702
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-349.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.41517448425293[m], 12.781264781951904[deg]
+Mean inference time: 13.477047434392965
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-350.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.4893224239349365[m], 13.62018346786499[deg]
+Mean inference time: 13.108375837218087
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-351.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.449750661849976[m], 12.589765071868896[deg]
+Mean inference time: 13.338434471274322
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-352.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.739211320877075[m], 13.452184677124023[deg]
+Mean inference time: 13.179515442758236
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-353.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.078801155090332[m], 11.689099311828613[deg]
+Mean inference time: 13.199318579907688
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-354.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.9457316398620605[m], 11.983105659484863[deg]
+Mean inference time: 13.231993171403992
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-355.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.773906946182251[m], 12.864527702331543[deg]
+Mean inference time: 13.243355391160497
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-356.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.799450874328613[m], 12.978238582611084[deg]
+Mean inference time: 13.573170607944704
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-357.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.842565059661865[m], 12.929883003234863[deg]
+Mean inference time: 13.222823053036096
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-358.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.9841039180755615[m], 12.459125518798828[deg]
+Mean inference time: 13.38015817246347
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-359.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.308804035186768[m], 12.205169200897217[deg]
+Mean inference time: 13.716959053615355
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-360.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.0153844356536865[m], 11.954836368560791[deg]
+Mean inference time: 13.691198151066619
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-361.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.107640743255615[m], 11.859123229980469[deg]
+Mean inference time: 12.902949441154048
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-362.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.4845685958862305[m], 13.472631931304932[deg]
+Mean inference time: 13.103818893432617
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-363.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.702715873718262[m], 12.390284061431885[deg]
+Mean inference time: 12.941028487007573
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-364.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.60727596282959[m], 12.493561267852783[deg]
+Mean inference time: 13.306418454871988
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-365.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.435908794403076[m], 12.670424461364746[deg]
+Mean inference time: 12.735207575672078
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-366.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.687687873840332[m], 11.94164752960205[deg]
+Mean inference time: 12.793287241233969
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-367.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.987486124038696[m], 12.235954284667969[deg]
+Mean inference time: 13.52380041806203
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-368.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.137249708175659[m], 13.028935432434082[deg]
+Mean inference time: 13.22925495651533
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-369.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.600997447967529[m], 14.040984153747559[deg]
+Mean inference time: 13.071852360131606
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-370.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.385465383529663[m], 14.329523086547852[deg]
+Mean inference time: 13.139847989352244
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-371.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.059159517288208[m], 12.721856594085693[deg]
+Mean inference time: 13.090610054304015
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-372.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.140542507171631[m], 12.604019165039062[deg]
+Mean inference time: 13.11835432952305
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-373.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.917011260986328[m], 12.20327377319336[deg]
+Mean inference time: 13.652646766518647
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-374.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.463562965393066[m], 12.710378646850586[deg]
+Mean inference time: 13.472245324332759
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-375.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.651632785797119[m], 12.20108938217163[deg]
+Mean inference time: 13.997259229983923
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-376.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.203329801559448[m], 12.02680253982544[deg]
+Mean inference time: 13.374113136867308
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-377.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.750417232513428[m], 13.015263557434082[deg]
+Mean inference time: 13.254343788578826
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-378.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.241590261459351[m], 14.563593864440918[deg]
+Mean inference time: 14.034448479706386
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-379.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.649994134902954[m], 12.851643085479736[deg]
+Mean inference time: 13.317227363586426
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-380.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.457242250442505[m], 13.090476512908936[deg]
+Mean inference time: 13.277574305264455
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-381.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.713989019393921[m], 13.909929275512695[deg]
+Mean inference time: 13.207149505615234
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-382.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.179833889007568[m], 12.453715801239014[deg]
+Mean inference time: 13.415947950111246
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-383.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.258575439453125[m], 12.988850593566895[deg]
+Mean inference time: 12.95487160952586
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-384.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.577713489532471[m], 13.032386302947998[deg]
+Mean inference time: 12.848977772694713
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-385.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.5689826011657715[m], 12.047618389129639[deg]
+Mean inference time: 12.820000918406361
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-386.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.199872255325317[m], 11.221546649932861[deg]
+Mean inference time: 12.753371022782236
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-387.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.606008291244507[m], 11.90530776977539[deg]
+Mean inference time: 12.75775747479133
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-388.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.74518609046936[m], 14.177335739135742[deg]
+Mean inference time: 13.23014385295364
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-389.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.256633281707764[m], 14.069228649139404[deg]
+Mean inference time: 13.758858644737387
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-390.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.3518664836883545[m], 12.658705711364746[deg]
+Mean inference time: 13.230938731499439
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-391.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.355708360671997[m], 13.42365026473999[deg]
+Mean inference time: 13.836326689090368
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-392.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.7915449142456055[m], 11.72618055343628[deg]
+Mean inference time: 13.11024584860172
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-393.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 5.939836740493774[m], 11.348284244537354[deg]
+Mean inference time: 13.248300102521789
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-394.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.585123538970947[m], 12.02722692489624[deg]
+Mean inference time: 13.522490015569723
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-395.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.437016010284424[m], 14.235998153686523[deg]
+Mean inference time: 13.149761703779113
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-396.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.624520540237427[m], 12.338996887207031[deg]
+Mean inference time: 13.749444709633881
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-397.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.139783143997192[m], 13.706010818481445[deg]
+Mean inference time: 13.816810104082215
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-398.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.5895349979400635[m], 11.654295444488525[deg]
+Mean inference time: 13.174510901828981
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-399.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.015399932861328[m], 12.383715629577637[deg]
+Mean inference time: 13.896473398748434
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-400.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.799358129501343[m], 13.145149230957031[deg]
+Mean inference time: 13.931134061993292
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-401.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.687734603881836[m], 12.524062633514404[deg]
+Mean inference time: 13.291764709184754
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-402.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.437467098236084[m], 12.487675189971924[deg]
+Mean inference time: 13.36695653087688
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-403.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.301601886749268[m], 12.543975830078125[deg]
+Mean inference time: 14.114256624905568
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-404.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.850675582885742[m], 12.828723907470703[deg]
+Mean inference time: 13.196313606118256
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-405.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.97546124458313[m], 13.92112398147583[deg]
+Mean inference time: 13.27193278186726
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-406.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.0719640254974365[m], 13.115430355072021[deg]
+Mean inference time: 13.191723373700988
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-407.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.536720752716064[m], 13.690890312194824[deg]
+Mean inference time: 13.2012943051896
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-408.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.94987154006958[m], 13.403120040893555[deg]
+Mean inference time: 13.591365994147534
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-409.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.250972747802734[m], 23.1151704788208[deg]
+Mean inference time: 13.183985566193202
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-410.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.538257360458374[m], 15.858986377716064[deg]
+Mean inference time: 13.270638123998102
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-411.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.641583204269409[m], 13.059361457824707[deg]
+Mean inference time: 13.564850249380436
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-412.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.54818868637085[m], 14.07407808303833[deg]
+Mean inference time: 13.128074160162008
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-413.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.675641059875488[m], 13.248476028442383[deg]
+Mean inference time: 13.2553775355501
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-414.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.699254035949707[m], 12.847331523895264[deg]
+Mean inference time: 13.306551609399184
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-415.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.839468479156494[m], 12.978928565979004[deg]
+Mean inference time: 13.772332893227631
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-416.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.408977508544922[m], 12.740811824798584[deg]
+Mean inference time: 13.794652920848918
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-417.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 8.841295719146729[m], 12.832195281982422[deg]
+Mean inference time: 14.054150401421314
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-418.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.873708963394165[m], 13.14522123336792[deg]
+Mean inference time: 13.206097314942557
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-419.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.874833106994629[m], 13.477898597717285[deg]
+Mean inference time: 14.013675473771006
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-420.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.020559549331665[m], 13.181825637817383[deg]
+Mean inference time: 13.47735288008204
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-421.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.683385133743286[m], 13.24146032333374[deg]
+Mean inference time: 14.065119455445487
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-422.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.266664981842041[m], 13.894950866699219[deg]
+Mean inference time: 13.09355654806461
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-423.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.909916877746582[m], 12.562803268432617[deg]
+Mean inference time: 13.366257919455474
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-424.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.322310924530029[m], 12.189808368682861[deg]
+Mean inference time: 13.291113331632793
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-425.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.530472993850708[m], 12.84528636932373[deg]
+Mean inference time: 14.24546961514455
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-426.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.946519613265991[m], 14.37622594833374[deg]
+Mean inference time: 13.915400685004467
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-427.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.851920127868652[m], 12.884222984313965[deg]
+Mean inference time: 13.16100336470694
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-428.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.725443363189697[m], 12.50095510482788[deg]
+Mean inference time: 13.887890779747153
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-429.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.088750839233398[m], 12.119432926177979[deg]
+Mean inference time: 13.136867757113475
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-430.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.95109224319458[m], 12.866618633270264[deg]
+Mean inference time: 14.027834838291383
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-431.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.173135042190552[m], 13.019501686096191[deg]
+Mean inference time: 13.042047338665656
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-432.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.8541319370269775[m], 13.778808116912842[deg]
+Mean inference time: 12.867182155825057
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-433.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.667731046676636[m], 13.291131019592285[deg]
+Mean inference time: 12.65076961157457
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-434.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.959834337234497[m], 12.143579483032227[deg]
+Mean inference time: 12.90442223818797
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-435.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.556279182434082[m], 12.97643518447876[deg]
+Mean inference time: 13.529746487455547
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-436.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.509906530380249[m], 13.16586971282959[deg]
+Mean inference time: 12.70563062631859
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-437.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.407924175262451[m], 12.152353286743164[deg]
+Mean inference time: 13.305237158289495
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-438.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.984384775161743[m], 13.016417980194092[deg]
+Mean inference time: 12.816818705144918
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-439.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.406340837478638[m], 12.565158367156982[deg]
+Mean inference time: 12.846694802338222
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-440.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.398180246353149[m], 11.672188758850098[deg]
+Mean inference time: 12.871974819111374
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-441.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.285473346710205[m], 13.046711444854736[deg]
+Mean inference time: 13.907448300775492
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-442.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.69969630241394[m], 12.4158353805542[deg]
+Mean inference time: 12.85041278263308
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-443.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.1094958782196045[m], 12.078682899475098[deg]
+Mean inference time: 13.302876364510015
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-444.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.43095064163208[m], 13.18440866470337[deg]
+Mean inference time: 13.579838680771163
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-445.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.194269418716431[m], 13.893572807312012[deg]
+Mean inference time: 13.089139056655595
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-446.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.935537576675415[m], 12.594055652618408[deg]
+Mean inference time: 14.220891358717433
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-447.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.827619314193726[m], 13.669868469238281[deg]
+Mean inference time: 13.659650874587724
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-448.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.489999532699585[m], 13.97350263595581[deg]
+Mean inference time: 13.16943033686224
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-449.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.255361080169678[m], 12.515532493591309[deg]
+Mean inference time: 13.143336997841889
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-450.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.177318096160889[m], 11.34309720993042[deg]
+Mean inference time: 13.337525331749106
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-451.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.920176982879639[m], 12.762782573699951[deg]
+Mean inference time: 12.980716633346846
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-452.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.873228549957275[m], 12.913398265838623[deg]
+Mean inference time: 13.503036409054163
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-453.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.319127082824707[m], 12.234312057495117[deg]
+Mean inference time: 13.20197897137336
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-454.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 7.819814682006836[m], 12.315310955047607[deg]
+Mean inference time: 14.440056962786981
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-455.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.284393548965454[m], 12.053666591644287[deg]
+Mean inference time: 13.642172543507701
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-456.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.0335373878479[m], 12.254544258117676[deg]
+Mean inference time: 14.013076278398621
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-457.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.057658910751343[m], 12.445915699005127[deg]
+Mean inference time: 13.362012269361964
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-458.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.060184717178345[m], 11.08763313293457[deg]
+Mean inference time: 13.763571685215211
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-459.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.277863264083862[m], 12.787625789642334[deg]
+Mean inference time: 13.074224849916854
+Performance of /home/transposenet/out/run_28_09_24_19_54_StMarysChurch_mamba_skip_1_checkpoint-460.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 6.97459864616394[m], 13.576171398162842[deg]
+Mean inference time: 13.022907275073933
+Performance of /home/transposenet/out/run_06_10_24_17_50_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 15.030536651611328[m], 51.974308013916016[deg]
+Mean inference time: 13.177088521561533
+Performance of /home/transposenet/out/run_06_10_24_17_59_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 17.183765411376953[m], 43.544931411743164[deg]
+Mean inference time: 12.975732785350871
+Performance of /home/transposenet/out/run_06_10_24_18_10_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.587033748626709[m], 46.858646392822266[deg]
+Mean inference time: 13.741511218952683
+Performance of /home/transposenet/out/run_06_10_24_18_10_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.661495685577393[m], 36.24847412109375[deg]
+Mean inference time: 13.671724301464153
+Performance of /home/transposenet/out/run_06_10_24_18_14_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.652457237243652[m], 43.22724914550781[deg]
+Mean inference time: 13.683764439708781
+Performance of /home/transposenet/out/run_06_10_24_18_14_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.78641939163208[m], 26.183327674865723[deg]
+Mean inference time: 13.005051073038354
+Performance of /home/transposenet/out/run_06_10_24_18_14_StMarysChurch_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.23191499710083[m], 29.775256156921387[deg]
+Mean inference time: 13.274503653904176
+Performance of /home/transposenet/out/run_06_10_24_18_14_StMarysChurch_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 11.064749717712402[m], 25.127029418945312[deg]
+Mean inference time: 13.273795595708883
+Performance of /home/transposenet/out/run_06_10_24_18_25_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 17.184393882751465[m], 74.38421249389648[deg]
+Mean inference time: 13.307911944839189
+Performance of /home/transposenet/out/run_06_10_24_18_25_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 17.992361068725586[m], 48.539894104003906[deg]
+Mean inference time: 13.22659951335979
+Performance of /home/transposenet/out/run_06_10_24_18_25_StMarysChurch_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.810800075531006[m], 29.678983688354492[deg]
+Mean inference time: 13.09921606531683
+Performance of /home/transposenet/out/run_06_10_24_18_25_StMarysChurch_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 10.713428497314453[m], 24.688746452331543[deg]
+Mean inference time: 13.137755304012659
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.60058879852295[m], 53.79576301574707[deg]
+Mean inference time: 13.822354460662266
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 29.073912620544434[m], 35.859867095947266[deg]
+Mean inference time: 13.216873834717948
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.093955993652344[m], 28.619537353515625[deg]
+Mean inference time: 12.98735501631251
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 11.401797771453857[m], 30.365877151489258[deg]
+Mean inference time: 13.99404507762981
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-5.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 9.198253631591797[m], 49.93304252624512[deg]
+Mean inference time: 13.65533414876686
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-6.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.58591365814209[m], 37.8878288269043[deg]
+Mean inference time: 13.283089421830088
+Performance of /home/transposenet/out/run_06_10_24_18_34_StMarysChurch_mamba_skip_1_checkpoint-7.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.650848865509033[m], 26.968238830566406[deg]
+Mean inference time: 13.115839688283092
+Performance of /home/transposenet/out/run_06_10_24_18_50_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 14.169578552246094[m], 39.50084114074707[deg]
+Mean inference time: 13.560658580852005
+Performance of /home/transposenet/out/run_06_10_24_18_50_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.309138774871826[m], 30.914833068847656[deg]
+Mean inference time: 13.334279240302319
+Performance of /home/transposenet/out/run_06_10_24_18_57_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 19.76675319671631[m], 38.41852378845215[deg]
+Mean inference time: 12.966500588183132
+Performance of /home/transposenet/out/run_06_10_24_18_57_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 15.105362892150879[m], 37.84568214416504[deg]
+Mean inference time: 13.132020662415702
+Performance of /home/transposenet/out/run_06_10_24_18_57_StMarysChurch_mamba_skip_1_checkpoint-3.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.726722717285156[m], 33.29719924926758[deg]
+Mean inference time: 13.239492110486301
+Performance of /home/transposenet/out/run_06_10_24_18_57_StMarysChurch_mamba_skip_1_checkpoint-4.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 12.4627685546875[m], 31.6057186126709[deg]
+Mean inference time: 13.96169977368049
+Performance of /home/transposenet/out/run_06_10_24_19_03_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 15.31322717666626[m], 58.70058250427246[deg]
+Mean inference time: 13.287685052403864
+Performance of /home/transposenet/out/run_06_10_24_19_17_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 14.811241626739502[m], 33.28800392150879[deg]
+Mean inference time: 13.154311450022572
+Performance of /home/transposenet/out/run_06_10_24_19_22_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 16.189559936523438[m], 41.777849197387695[deg]
+Mean inference time: 13.321647554073694
+Performance of /home/transposenet/out/run_06_10_24_19_22_StMarysChurch_mamba_skip_1_checkpoint-1.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 13.7125563621521[m], 31.55604648590088[deg]
+Mean inference time: 13.426468057452508
+Performance of /home/transposenet/out/run_06_10_24_19_22_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test_hard01.csv
+Median pose error: 25.62925624847412[m], 24.112509727478027[deg]
+Mean inference time: 13.340360263608536
+Performance of /home/transposenet/out/run_06_10_24_19_22_StMarysChurch_mamba_skip_1_checkpoint-2.pth on /home/transposenet/datasets123/CambridgeLandmarks/abs_cambridge_pose_sorted.csv_StMarysChurch_test.csv
+Median pose error: 14.937270641326904[m], 22.13264560699463[deg]
+Mean inference time: 13.353744092977271
